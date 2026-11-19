@@ -1,0 +1,296 @@
+[
+  {
+    "id": "c1",
+    "startMs": 35960,
+    "endMs": 39180,
+    "text": "1. Listen and judge the pictures."
+  },
+  {
+    "id": "c2",
+    "startMs": 53230,
+    "endMs": 57580,
+    "text": "1. The boy is flying a kite in the park."
+  },
+  {
+    "id": "c3",
+    "startMs": 59320,
+    "endMs": 63740,
+    "text": "Two. The girl is reading a book under the tree."
+  },
+  {
+    "id": "c4",
+    "startMs": 65940,
+    "endMs": 66540,
+    "text": "Three."
+  },
+  {
+    "id": "c5",
+    "startMs": 67580,
+    "endMs": 68380,
+    "text": "It's cold outside,"
+  },
+  {
+    "id": "c6",
+    "startMs": 69200,
+    "endMs": 71240,
+    "text": "but the boy is still playing with snow."
+  },
+  {
+    "id": "c7",
+    "startMs": 73500,
+    "endMs": 74200,
+    "text": "Four."
+  },
+  {
+    "id": "c8",
+    "startMs": 75460,
+    "endMs": 77720,
+    "text": "The man is driving a bus to school."
+  },
+  {
+    "id": "c9",
+    "startMs": 80020,
+    "endMs": 80820,
+    "text": "Five."
+  },
+  {
+    "id": "c10",
+    "startMs": 81900,
+    "endMs": 83900,
+    "text": "The cat is sleeping on the sofa."
+  },
+  {
+    "id": "c11",
+    "startMs": 84960,
+    "endMs": 90380,
+    "text": "6. There are three goldfish in the tank."
+  },
+  {
+    "id": "c12",
+    "startMs": 91940,
+    "endMs": 96540,
+    "text": "7. The students are watching a science experiment."
+  },
+  {
+    "id": "c13",
+    "startMs": 98770,
+    "endMs": 101840,
+    "text": "8. I'm not feeling well."
+  },
+  {
+    "id": "c14",
+    "startMs": 102720,
+    "endMs": 103770,
+    "text": "I have an earache."
+  },
+  {
+    "id": "c15",
+    "startMs": 105610,
+    "endMs": 110840,
+    "text": "9. The girl is wearing a coat and holding an umbrella."
+  },
+  {
+    "id": "c16",
+    "startMs": 112500,
+    "endMs": 116140,
+    "text": "10. The family are eating breakfast."
+  },
+  {
+    "id": "c17",
+    "startMs": 121560,
+    "endMs": 124200,
+    "text": "题组二。One."
+  },
+  {
+    "id": "c18",
+    "startMs": 124270,
+    "endMs": 127360,
+    "text": "1. Would you prefer some coffee?"
+  },
+  {
+    "id": "c19",
+    "startMs": 130010,
+    "endMs": 132120,
+    "text": "2. In summer,"
+  },
+  {
+    "id": "c20",
+    "startMs": 132920,
+    "endMs": 135700,
+    "text": "I enjoy collecting seashells by the beach."
+  },
+  {
+    "id": "c21",
+    "startMs": 137910,
+    "endMs": 141880,
+    "text": "3. This ice cream is really delicious."
+  },
+  {
+    "id": "c22",
+    "startMs": 143890,
+    "endMs": 148700,
+    "text": "4. Spring brings green colour to the grass."
+  },
+  {
+    "id": "c23",
+    "startMs": 151510,
+    "endMs": 154300,
+    "text": "5. Can you find the ruler?"
+  },
+  {
+    "id": "c24",
+    "startMs": 155040,
+    "endMs": 155940,
+    "text": "It's in the desk."
+  },
+  {
+    "id": "c25",
+    "startMs": 158830,
+    "endMs": 162840,
+    "text": "6. The toys are placed on the bookshelf."
+  },
+  {
+    "id": "c26",
+    "startMs": 164960,
+    "endMs": 169560,
+    "text": "7. A monkey is eating a peach in the tree."
+  },
+  {
+    "id": "c27",
+    "startMs": 171640,
+    "endMs": 173620,
+    "text": "8. Hey, Kitty,"
+  },
+  {
+    "id": "c28",
+    "startMs": 174520,
+    "endMs": 175920,
+    "text": "how about playing hide and seek?"
+  },
+  {
+    "id": "c29",
+    "startMs": 176540,
+    "endMs": 177080,
+    "text": "Sounds fun."
+  },
+  {
+    "id": "c30",
+    "startMs": 179650,
+    "endMs": 183640,
+    "text": "9. The strong wind broke the window."
+  },
+  {
+    "id": "c31",
+    "startMs": 185480,
+    "endMs": 190760,
+    "text": "10. A magnifier helps you see small things clearly."
+  },
+  {
+    "id": "c32",
+    "startMs": 193240,
+    "endMs": 198300,
+    "text": "题组三。One."
+  },
+  {
+    "id": "c33",
+    "startMs": 198500,
+    "endMs": 202240,
+    "text": "School rules require uniforms from Monday through Friday."
+  },
+  {
+    "id": "c34",
+    "startMs": 205000,
+    "endMs": 207480,
+    "text": "2. During the Dragon Boat Festival,"
+  },
+  {
+    "id": "c35",
+    "startMs": 208260,
+    "endMs": 210360,
+    "text": "it's traditional to eat zongzi."
+  },
+  {
+    "id": "c36",
+    "startMs": 212960,
+    "endMs": 217440,
+    "text": "3. Toothpaste can help you keep your teeth clean and healthy."
+  },
+  {
+    "id": "c37",
+    "startMs": 219960,
+    "endMs": 220700,
+    "text": "Four."
+  },
+  {
+    "id": "c38",
+    "startMs": 221340,
+    "endMs": 224740,
+    "text": "A rabbit uses its tail to signal danger to others."
+  },
+  {
+    "id": "c39",
+    "startMs": 226880,
+    "endMs": 227580,
+    "text": "Five."
+  },
+  {
+    "id": "c40",
+    "startMs": 228780,
+    "endMs": 229360,
+    "text": "In the end,"
+  },
+  {
+    "id": "c41",
+    "startMs": 229820,
+    "endMs": 232360,
+    "text": "the ugly duckling turns into a lovely swan."
+  },
+  {
+    "id": "c42",
+    "startMs": 234740,
+    "endMs": 239280,
+    "text": "Six. We should get some fruit before anything else."
+  },
+  {
+    "id": "c43",
+    "startMs": 241660,
+    "endMs": 242360,
+    "text": "Seven."
+  },
+  {
+    "id": "c44",
+    "startMs": 243740,
+    "endMs": 244600,
+    "text": "French fries are tasty,"
+  },
+  {
+    "id": "c45",
+    "startMs": 245500,
+    "endMs": 246620,
+    "text": "but they aren't healthy."
+  },
+  {
+    "id": "c46",
+    "startMs": 249360,
+    "endMs": 251680,
+    "text": "8. One day,"
+  },
+  {
+    "id": "c47",
+    "startMs": 252200,
+    "endMs": 254640,
+    "text": "this little tree will become very large."
+  },
+  {
+    "id": "c48",
+    "startMs": 256230,
+    "endMs": 261780,
+    "text": "9. My watch says it's 10:45 now."
+  },
+  {
+    "id": "c49",
+    "startMs": 263690,
+    "endMs": 268640,
+    "text": "10. Yao Ming is well known as a basketball star."
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "c1",
+    "startMs": 9600,
+    "endMs": 13480,
+    "text": "1. Listen and put in the missing letters"
+  },
+  {
+    "id": "c2",
+    "startMs": 24280,
+    "endMs": 24400,
+    "text": "1."
+  },
+  {
+    "id": "c3",
+    "startMs": 25200,
+    "endMs": 25860,
+    "text": "Scarf."
+  },
+  {
+    "id": "c4",
+    "startMs": 26640,
+    "endMs": 30340,
+    "text": "2. Turtle."
+  },
+  {
+    "id": "c5",
+    "startMs": 32920,
+    "endMs": 35740,
+    "text": "3."
+  },
+  {
+    "id": "c6",
+    "startMs": 36860,
+    "endMs": 37120,
+    "text": "Parent."
+  },
+  {
+    "id": "c7",
+    "startMs": 41280,
+    "endMs": 42720,
+    "text": "4. Station"
+  },
+  {
+    "id": "c8",
+    "startMs": 44100,
+    "endMs": 48560,
+    "text": "5. Weekend"
+  },
+  {
+    "id": "c9",
+    "startMs": 49440,
+    "endMs": 54360,
+    "text": "6. Model"
+  },
+  {
+    "id": "c10",
+    "startMs": 55220,
+    "endMs": 60200,
+    "text": "7. Number"
+  },
+  {
+    "id": "c11",
+    "startMs": 60940,
+    "endMs": 66180,
+    "text": "8. Rubbish"
+  },
+  {
+    "id": "c12",
+    "startMs": 70520,
+    "endMs": 72320,
+    "text": "9 lonely"
+  },
+  {
+    "id": "c13",
+    "startMs": 76520,
+    "endMs": 78120,
+    "text": "10 across"
+  },
+  {
+    "id": "c14",
+    "startMs": 82100,
+    "endMs": 83880,
+    "text": "11 delicious"
+  },
+  {
+    "id": "c15",
+    "startMs": 88200,
+    "endMs": 88700,
+    "text": "12 collect"
+  },
+  {
+    "id": "c16",
+    "startMs": 89920,
+    "endMs": 96240,
+    "text": "13. Badminton"
+  },
+  {
+    "id": "c17",
+    "startMs": 96940,
+    "endMs": 102060,
+    "text": "14. Healthy"
+  },
+  {
+    "id": "c18",
+    "startMs": 103460,
+    "endMs": 108260,
+    "text": "15. Usually"
+  },
+  {
+    "id": "c19",
+    "startMs": 112000,
+    "endMs": 114460,
+    "text": "16. Envelope"
+  },
+  {
+    "id": "c20",
+    "startMs": 114920,
+    "endMs": 121180,
+    "text": "17. Important"
+  },
+  {
+    "id": "c21",
+    "startMs": 122100,
+    "endMs": 126880,
+    "text": "18. Outside"
+  },
+  {
+    "id": "c22",
+    "startMs": 128100,
+    "endMs": 132940,
+    "text": "19. Telephone"
+  },
+  {
+    "id": "c23",
+    "startMs": 133680,
+    "endMs": 139000,
+    "text": "20. Scientist"
+  }
+]
