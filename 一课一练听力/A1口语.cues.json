@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c1",
+    "startMs": 2070,
+    "endMs": 6260,
+    "text": "Assessment 1 for units 1 to 2"
+  },
+  {
+    "id": "c2",
+    "startMs": 6880,
+    "endMs": 8020,
+    "text": "Part 1, speaking"
+  },
+  {
+    "id": "c3",
+    "startMs": 8720,
+    "endMs": 9360,
+    "text": "Coeibolfen"
+  },
+  {
+    "id": "c4",
+    "startMs": 9740,
+    "endMs": 10080,
+    "text": "1,"
+  },
+  {
+    "id": "c5",
+    "startMs": 10680,
+    "endMs": 11260,
+    "text": "read aloud"
+  },
+  {
+    "id": "c6",
+    "startMs": 12340,
+    "endMs": 12560,
+    "text": "1,"
+  },
+  {
+    "id": "c7",
+    "startMs": 13520,
+    "endMs": 16220,
+    "text": "taking photos is my favourite hobby"
+  },
+  {
+    "id": "c8",
+    "startMs": 17620,
+    "endMs": 18620,
+    "text": "2,"
+  },
+  {
+    "id": "c9",
+    "startMs": 19380,
+    "endMs": 22780,
+    "text": "the photographer is taking a photo of the typhoon"
+  },
+  {
+    "id": "c10",
+    "startMs": 24210,
+    "endMs": 25260,
+    "text": "3,"
+  },
+  {
+    "id": "c11",
+    "startMs": 26300,
+    "endMs": 28840,
+    "text": "past the supermarket there is a farm"
+  },
+  {
+    "id": "c12",
+    "startMs": 29520,
+    "endMs": 35370,
+    "text": "4. In the large park we are dancing under"
+  },
+  {
+    "id": "c13",
+    "startMs": 35420,
+    "endMs": 39000,
+    "text": "the palm tree and you are busy gardening."
+  },
+  {
+    "id": "c14",
+    "startMs": 40890,
+    "endMs": 45460,
+    "text": "1. Taking photos is my favorite hobby."
+  },
+  {
+    "id": "c15",
+    "startMs": 46990,
+    "endMs": 52040,
+    "text": "2. The photographer is taking a photo of the typhoon."
+  },
+  {
+    "id": "c16",
+    "startMs": 53360,
+    "endMs": 56660,
+    "text": "3. Past the supermarket,"
+  },
+  {
+    "id": "c17",
+    "startMs": 57440,
+    "endMs": 58180,
+    "text": "there is a farm."
+  },
+  {
+    "id": "c18",
+    "startMs": 60250,
+    "endMs": 62780,
+    "text": "4. In the large park,"
+  },
+  {
+    "id": "c19",
+    "startMs": 63260,
+    "endMs": 65560,
+    "text": "we are dancing under the palm tree."
+  },
+  {
+    "id": "c20",
+    "startMs": 66380,
+    "endMs": 68080,
+    "text": "And you, are busy gardening."
+  }
+]

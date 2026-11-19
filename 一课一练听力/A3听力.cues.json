@@ -1,0 +1,776 @@
+[
+  {
+    "id": "c1",
+    "startMs": 2770,
+    "endMs": 6340,
+    "text": "Assessment 3 for units 5 to 6."
+  },
+  {
+    "id": "c2",
+    "startMs": 7120,
+    "endMs": 8500,
+    "text": "Part 2, listening."
+  },
+  {
+    "id": "c3",
+    "startMs": 8980,
+    "endMs": 9600,
+    "text": "Tini bofen."
+  },
+  {
+    "id": "c4",
+    "startMs": 10060,
+    "endMs": 10260,
+    "text": "1,"
+  },
+  {
+    "id": "c5",
+    "startMs": 10780,
+    "endMs": 11820,
+    "text": "listen and choose."
+  },
+  {
+    "id": "c6",
+    "startMs": 12600,
+    "endMs": 16840,
+    "text": "Sushi tinglu yin chenchuotinta dansu huadang yu."
+  },
+  {
+    "id": "c7",
+    "startMs": 18200,
+    "endMs": 19100,
+    "text": "1,"
+  },
+  {
+    "id": "c8",
+    "startMs": 20120,
+    "endMs": 22060,
+    "text": "fresh fruit is good for your health."
+  },
+  {
+    "id": "c9",
+    "startMs": 23580,
+    "endMs": 24380,
+    "text": "2,"
+  },
+  {
+    "id": "c10",
+    "startMs": 25340,
+    "endMs": 26560,
+    "text": "chenchin tried her best."
+  },
+  {
+    "id": "c11",
+    "startMs": 28820,
+    "endMs": 31400,
+    "text": "3. I have a terrible headache"
+  },
+  {
+    "id": "c12",
+    "startMs": 33100,
+    "endMs": 36940,
+    "text": "4. You need to take this medicine three times a day"
+  },
+  {
+    "id": "c13",
+    "startMs": 38380,
+    "endMs": 42020,
+    "text": "5. Never give up when facing difficulties"
+  },
+  {
+    "id": "c14",
+    "startMs": 43900,
+    "endMs": 47060,
+    "text": "6. He used to be very shy in class"
+  },
+  {
+    "id": "c15",
+    "startMs": 48710,
+    "endMs": 52720,
+    "text": "7. Remember to have a rest after exercise"
+  },
+  {
+    "id": "c16",
+    "startMs": 54550,
+    "endMs": 59000,
+    "text": "8. You should do eye exercises to protect your eyes."
+  },
+  {
+    "id": "c17",
+    "startMs": 61420,
+    "endMs": 63940,
+    "text": "2. Listen and choose."
+  },
+  {
+    "id": "c18",
+    "startMs": 67550,
+    "endMs": 72120,
+    "text": "1. What's the matter, Tom?"
+  },
+  {
+    "id": "c19",
+    "startMs": 72960,
+    "endMs": 73760,
+    "text": "You don't look well."
+  },
+  {
+    "id": "c20",
+    "startMs": 74840,
+    "endMs": 77260,
+    "text": "I have a bad cough and a runny nose."
+  },
+  {
+    "id": "c21",
+    "startMs": 78840,
+    "endMs": 79120,
+    "text": "Question,"
+  },
+  {
+    "id": "c22",
+    "startMs": 79860,
+    "endMs": 81220,
+    "text": "what's the matter with Tom?"
+  },
+  {
+    "id": "c23",
+    "startMs": 84670,
+    "endMs": 86400,
+    "text": "2. Doctor,"
+  },
+  {
+    "id": "c24",
+    "startMs": 87140,
+    "endMs": 87820,
+    "text": "my eyes hurt,"
+  },
+  {
+    "id": "c25",
+    "startMs": 88380,
+    "endMs": 89560,
+    "text": "and I can't see clearly."
+  },
+  {
+    "id": "c26",
+    "startMs": 90380,
+    "endMs": 90520,
+    "text": "Lucy,"
+  },
+  {
+    "id": "c27",
+    "startMs": 91120,
+    "endMs": 92380,
+    "text": "you use your eyes too much."
+  },
+  {
+    "id": "c28",
+    "startMs": 93240,
+    "endMs": 96600,
+    "text": "You need to watch less TV and play fewer computer games."
+  },
+  {
+    "id": "c29",
+    "startMs": 97400,
+    "endMs": 98720,
+    "text": "Do more outdoor activities."
+  },
+  {
+    "id": "c30",
+    "startMs": 99700,
+    "endMs": 100000,
+    "text": "Question,"
+  },
+  {
+    "id": "c31",
+    "startMs": 100760,
+    "endMs": 102080,
+    "text": "what should Lucy do?"
+  },
+  {
+    "id": "c32",
+    "startMs": 102520,
+    "endMs": 108120,
+    "text": "3. Shenzhen,"
+  },
+  {
+    "id": "c33",
+    "startMs": 108640,
+    "endMs": 110400,
+    "text": "you are a great storyteller now."
+  },
+  {
+    "id": "c34",
+    "startMs": 110920,
+    "endMs": 111700,
+    "text": "How did you do it?"
+  },
+  {
+    "id": "c35",
+    "startMs": 112060,
+    "endMs": 112440,
+    "text": "Well,"
+  },
+  {
+    "id": "c36",
+    "startMs": 113020,
+    "endMs": 113980,
+    "text": "I used to be shy."
+  },
+  {
+    "id": "c37",
+    "startMs": 114880,
+    "endMs": 117460,
+    "text": "I told stories to my family every day."
+  },
+  {
+    "id": "c38",
+    "startMs": 118460,
+    "endMs": 119700,
+    "text": "Their tips helped me a"
+  },
+  {
+    "id": "c39",
+    "startMs": 119700,
+    "endMs": 119940,
+    "text": "lot."
+  },
+  {
+    "id": "c40",
+    "startMs": 120720,
+    "endMs": 124580,
+    "text": "I also learned from videos and practiced again and again."
+  },
+  {
+    "id": "c41",
+    "startMs": 125720,
+    "endMs": 125900,
+    "text": "Question."
+  },
+  {
+    "id": "c42",
+    "startMs": 126840,
+    "endMs": 129230,
+    "text": "How did Shenzhen become a good storyteller?"
+  },
+  {
+    "id": "c43",
+    "startMs": 133100,
+    "endMs": 133600,
+    "text": "Four."
+  },
+  {
+    "id": "c44",
+    "startMs": 134440,
+    "endMs": 137100,
+    "text": "What do you want to be in the future, Shao Pu?"
+  },
+  {
+    "id": "c45",
+    "startMs": 138080,
+    "endMs": 139300,
+    "text": "I want to be a doctor,"
+  },
+  {
+    "id": "c46",
+    "startMs": 139960,
+    "endMs": 140640,
+    "text": "like Dr. Wang."
+  },
+  {
+    "id": "c47",
+    "startMs": 141260,
+    "endMs": 143640,
+    "text": "He helps sick people and gives good tips."
+  },
+  {
+    "id": "c48",
+    "startMs": 144360,
+    "endMs": 144540,
+    "text": "Question."
+  },
+  {
+    "id": "c49",
+    "startMs": 145380,
+    "endMs": 147500,
+    "text": "What does Shao Pu want to be in the future?"
+  },
+  {
+    "id": "c50",
+    "startMs": 151070,
+    "endMs": 153940,
+    "text": "5. I like this wise saying."
+  },
+  {
+    "id": "c51",
+    "startMs": 154680,
+    "endMs": 156400,
+    "text": "Where there is a will, there is a way."
+  },
+  {
+    "id": "c52",
+    "startMs": 157020,
+    "endMs": 157900,
+    "text": "It helps me a lot"
+  },
+  {
+    "id": "c53",
+    "startMs": 157900,
+    "endMs": 158980,
+    "text": "when I face difficulties."
+  },
+  {
+    "id": "c54",
+    "startMs": 160200,
+    "endMs": 161260,
+    "text": "What saying do you like Lily?"
+  },
+  {
+    "id": "c55",
+    "startMs": 161960,
+    "endMs": 163940,
+    "text": "I also like the saying you like."
+  },
+  {
+    "id": "c56",
+    "startMs": 164800,
+    "endMs": 165200,
+    "text": "Question."
+  },
+  {
+    "id": "c57",
+    "startMs": 165880,
+    "endMs": 167140,
+    "text": "Which saying does Lily like?"
+  },
+  {
+    "id": "c58",
+    "startMs": 169110,
+    "endMs": 171340,
+    "text": "3. Listen and judge."
+  },
+  {
+    "id": "c59",
+    "startMs": 175680,
+    "endMs": 178660,
+    "text": "Pandai's solitude is a 18-hour day long for Sun Fu."
+  },
+  {
+    "id": "c60",
+    "startMs": 179360,
+    "endMs": 180720,
+    "text": "Sun Fu does not have a big"
+  },
+  {
+    "id": "c61",
+    "startMs": 180720,
+    "endMs": 182540,
+    "text": "long-term life."
+  },
+  {
+    "id": "c62",
+    "startMs": 185580,
+    "endMs": 187760,
+    "text": "Mimi had a little accident yesterday."
+  },
+  {
+    "id": "c63",
+    "startMs": 188980,
+    "endMs": 192220,
+    "text": "He fell off his bike on his way to school and hurt his arm."
+  },
+  {
+    "id": "c64",
+    "startMs": 193620,
+    "endMs": 196580,
+    "text": "The school doctor checked his arm and said it wasn't broken,"
+  },
+  {
+    "id": "c65",
+    "startMs": 196980,
+    "endMs": 198400,
+    "text": "but he had a small cut."
+  },
+  {
+    "id": "c66",
+    "startMs": 199660,
+    "endMs": 201860,
+    "text": "She cleaned the wound and told Min Min"
+  },
+  {
+    "id": "c67",
+    "startMs": 201860,
+    "endMs": 204560,
+    "text": "to keep it dry for the next few days."
+  },
+  {
+    "id": "c68",
+    "startMs": 205800,
+    "endMs": 206980,
+    "text": "At the same time,"
+  },
+  {
+    "id": "c69",
+    "startMs": 207820,
+    "endMs": 210760,
+    "text": "Shenzhen was preparing for the storytelling contest."
+  },
+  {
+    "id": "c70",
+    "startMs": 212340,
+    "endMs": 214020,
+    "text": "She used to be very nervous about"
+  },
+  {
+    "id": "c71",
+    "startMs": 214020,
+    "endMs": 216080,
+    "text": "speaking in front of the whole class,"
+  },
+  {
+    "id": "c72",
+    "startMs": 217260,
+    "endMs": 218080,
+    "text": "but she really"
+  },
+  {
+    "id": "c73",
+    "startMs": 218360,
+    "endMs": 219880,
+    "text": "wanted to share her stories."
+  },
+  {
+    "id": "c74",
+    "startMs": 221220,
+    "endMs": 222460,
+    "text": "Every day after lunch,"
+  },
+  {
+    "id": "c75",
+    "startMs": 223380,
+    "endMs": 227080,
+    "text": "she practiced by telling stories to her best friends in the library."
+  },
+  {
+    "id": "c76",
+    "startMs": 228420,
+    "endMs": 230480,
+    "text": "gave her tips and encouraged her."
+  },
+  {
+    "id": "c77",
+    "startMs": 231780,
+    "endMs": 234640,
+    "text": "Both Min Min and Shen Shen learned that difficulties"
+  },
+  {
+    "id": "c78",
+    "startMs": 234660,
+    "endMs": 235980,
+    "text": "are part of life."
+  },
+  {
+    "id": "c79",
+    "startMs": 237080,
+    "endMs": 240200,
+    "text": "Min Min learned to be more careful when riding his bike,"
+  },
+  {
+    "id": "c80",
+    "startMs": 240840,
+    "endMs": 241580,
+    "text": "and Shen Shen"
+  },
+  {
+    "id": "c81",
+    "startMs": 241660,
+    "endMs": 244980,
+    "text": "learned that with practice and courage she"
+  },
+  {
+    "id": "c82",
+    "startMs": 244980,
+    "endMs": 247640,
+    "text": "could overcome her fear of public speaking."
+  },
+  {
+    "id": "c83",
+    "startMs": 251840,
+    "endMs": 253840,
+    "text": "Min Min had a little accident yesterday."
+  },
+  {
+    "id": "c84",
+    "startMs": 255220,
+    "endMs": 257680,
+    "text": "He fell off his bike on his way to school and"
+  },
+  {
+    "id": "c85",
+    "startMs": 257920,
+    "endMs": 258460,
+    "text": "hurt his arm."
+  },
+  {
+    "id": "c86",
+    "startMs": 259940,
+    "endMs": 261440,
+    "text": "The school doctor checked his arm"
+  },
+  {
+    "id": "c87",
+    "startMs": 261440,
+    "endMs": 263800,
+    "text": "and said it wasn't broken but he had"
+  },
+  {
+    "id": "c88",
+    "startMs": 263800,
+    "endMs": 264660,
+    "text": "a small cut."
+  },
+  {
+    "id": "c89",
+    "startMs": 265900,
+    "endMs": 268120,
+    "text": "She cleaned the wound and told Min Min"
+  },
+  {
+    "id": "c90",
+    "startMs": 268120,
+    "endMs": 270720,
+    "text": "to keep it dry for the next few days."
+  },
+  {
+    "id": "c91",
+    "startMs": 272040,
+    "endMs": 273280,
+    "text": "At the same time,"
+  },
+  {
+    "id": "c92",
+    "startMs": 274040,
+    "endMs": 277020,
+    "text": "Shenzhen was preparing for the storytelling contest."
+  },
+  {
+    "id": "c93",
+    "startMs": 278620,
+    "endMs": 279580,
+    "text": "She used to be very"
+  },
+  {
+    "id": "c94",
+    "startMs": 279580,
+    "endMs": 282320,
+    "text": "nervous about speaking in front of the whole class,"
+  },
+  {
+    "id": "c95",
+    "startMs": 283480,
+    "endMs": 285580,
+    "text": "but she really wanted to share her"
+  },
+  {
+    "id": "c96",
+    "startMs": 285780,
+    "endMs": 286140,
+    "text": "stories."
+  },
+  {
+    "id": "c97",
+    "startMs": 287620,
+    "endMs": 288680,
+    "text": "Every day after lunch,"
+  },
+  {
+    "id": "c98",
+    "startMs": 289640,
+    "endMs": 292940,
+    "text": "she practiced by telling stories to her best friends in"
+  },
+  {
+    "id": "c99",
+    "startMs": 292940,
+    "endMs": 293340,
+    "text": "the library."
+  },
+  {
+    "id": "c100",
+    "startMs": 294600,
+    "endMs": 296720,
+    "text": "They gave her tips and encouraged her."
+  },
+  {
+    "id": "c101",
+    "startMs": 297900,
+    "endMs": 300420,
+    "text": "Both Min Min and Shen Shen learned that"
+  },
+  {
+    "id": "c102",
+    "startMs": 300420,
+    "endMs": 302240,
+    "text": "difficulties are part of life."
+  },
+  {
+    "id": "c103",
+    "startMs": 303240,
+    "endMs": 306460,
+    "text": "Min Min learned to be more careful when riding his bike,"
+  },
+  {
+    "id": "c104",
+    "startMs": 307100,
+    "endMs": 307200,
+    "text": "and"
+  },
+  {
+    "id": "c105",
+    "startMs": 307400,
+    "endMs": 310480,
+    "text": "Shen Shen learned that with practice and courage"
+  },
+  {
+    "id": "c106",
+    "startMs": 310480,
+    "endMs": 313920,
+    "text": "she could overcome her fear of public speaking."
+  },
+  {
+    "id": "c107",
+    "startMs": 316140,
+    "endMs": 318960,
+    "text": "4. Listen and complete."
+  },
+  {
+    "id": "c108",
+    "startMs": 319980,
+    "endMs": 328600,
+    "text": "A healthy lifestyle is important for everyone."
+  },
+  {
+    "id": "c109",
+    "startMs": 329940,
+    "endMs": 330340,
+    "text": "First,"
+  },
+  {
+    "id": "c110",
+    "startMs": 330700,
+    "endMs": 332760,
+    "text": "we should eat a balanced diet with"
+  },
+  {
+    "id": "c111",
+    "startMs": 333080,
+    "endMs": 334200,
+    "text": "plenty of fruit and vegetables."
+  },
+  {
+    "id": "c112",
+    "startMs": 335420,
+    "endMs": 338000,
+    "text": "Try to avoid too much sugar or junk food."
+  },
+  {
+    "id": "c113",
+    "startMs": 338920,
+    "endMs": 340340,
+    "text": "Second, it's"
+  },
+  {
+    "id": "c114",
+    "startMs": 340360,
+    "endMs": 344340,
+    "text": "It's important to get enough sleep every night and do exercise."
+  },
+  {
+    "id": "c115",
+    "startMs": 345460,
+    "endMs": 345740,
+    "text": "Finally,"
+  },
+  {
+    "id": "c116",
+    "startMs": 346800,
+    "endMs": 348360,
+    "text": "when facing challenges in life,"
+  },
+  {
+    "id": "c117",
+    "startMs": 349080,
+    "endMs": 352020,
+    "text": "always remember to believe in yourself and never"
+  },
+  {
+    "id": "c118",
+    "startMs": 352020,
+    "endMs": 352760,
+    "text": "give up."
+  },
+  {
+    "id": "c119",
+    "startMs": 356800,
+    "endMs": 359480,
+    "text": "A healthy lifestyle is important for everyone."
+  },
+  {
+    "id": "c120",
+    "startMs": 360700,
+    "endMs": 360960,
+    "text": "First,"
+  },
+  {
+    "id": "c121",
+    "startMs": 361580,
+    "endMs": 365220,
+    "text": "we should eat a balanced diet with plenty of fruit and vegetables."
+  },
+  {
+    "id": "c122",
+    "startMs": 366340,
+    "endMs": 368900,
+    "text": "Try to avoid too much sugar or junk food."
+  },
+  {
+    "id": "c123",
+    "startMs": 369960,
+    "endMs": 370260,
+    "text": "Second,"
+  },
+  {
+    "id": "c124",
+    "startMs": 371000,
+    "endMs": 373420,
+    "text": "it's important to get enough sleep every night."
+  },
+  {
+    "id": "c125",
+    "startMs": 374320,
+    "endMs": 375240,
+    "text": "And do exercise."
+  },
+  {
+    "id": "c126",
+    "startMs": 376300,
+    "endMs": 376640,
+    "text": "Finally,"
+  },
+  {
+    "id": "c127",
+    "startMs": 377660,
+    "endMs": 379240,
+    "text": "when facing challenges in life,"
+  },
+  {
+    "id": "c128",
+    "startMs": 379940,
+    "endMs": 382900,
+    "text": "always remember to believe in yourself and never"
+  },
+  {
+    "id": "c129",
+    "startMs": 383220,
+    "endMs": 383600,
+    "text": "give up."
+  }
+]

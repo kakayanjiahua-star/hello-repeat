@@ -1,0 +1,566 @@
+[
+  {
+    "id": "c1",
+    "startMs": 460,
+    "endMs": 3240,
+    "text": "1."
+  },
+  {
+    "id": "c2",
+    "startMs": 3240,
+    "endMs": 5320,
+    "text": "Assessment 2 for units 3 to 4."
+  },
+  {
+    "id": "c3",
+    "startMs": 5760,
+    "endMs": 6340,
+    "text": "Part 2."
+  },
+  {
+    "id": "c4",
+    "startMs": 7060,
+    "endMs": 7320,
+    "text": "Listening"
+  },
+  {
+    "id": "c5",
+    "startMs": 7320,
+    "endMs": 8580,
+    "text": "2 million C."
+  },
+  {
+    "id": "c6",
+    "startMs": 9000,
+    "endMs": 9300,
+    "text": "1."
+  },
+  {
+    "id": "c7",
+    "startMs": 9960,
+    "endMs": 11120,
+    "text": "Listen, choose and write."
+  },
+  {
+    "id": "c8",
+    "startMs": 12760,
+    "endMs": 14050,
+    "text": "It's a very important thing to do."
+  },
+  {
+    "id": "c9",
+    "startMs": 16050,
+    "endMs": 18780,
+    "text": "It's a very important thing to do."
+  },
+  {
+    "id": "c10",
+    "startMs": 24960,
+    "endMs": 25160,
+    "text": "1."
+  },
+  {
+    "id": "c11",
+    "startMs": 26220,
+    "endMs": 28200,
+    "text": "It spends the day resting in water."
+  },
+  {
+    "id": "c12",
+    "startMs": 29100,
+    "endMs": 30920,
+    "text": "It can even walk in water."
+  },
+  {
+    "id": "c13",
+    "startMs": 33590,
+    "endMs": 36540,
+    "text": "2. It can stand with one leg."
+  },
+  {
+    "id": "c14",
+    "startMs": 37260,
+    "endMs": 38460,
+    "text": "It's a special way of sleeping."
+  },
+  {
+    "id": "c15",
+    "startMs": 40950,
+    "endMs": 45610,
+    "text": "3. Its big leaves look like lovely green umbrellas."
+  },
+  {
+    "id": "c16",
+    "startMs": 48230,
+    "endMs": 52400,
+    "text": "4. It has special leaves like a mouth with many teeth."
+  },
+  {
+    "id": "c17",
+    "startMs": 52520,
+    "endMs": 58220,
+    "text": "5. They have long thin stems."
+  },
+  {
+    "id": "c18",
+    "startMs": 59060,
+    "endMs": 61620,
+    "text": "They can cover a wall in a very short time."
+  },
+  {
+    "id": "c19",
+    "startMs": 65300,
+    "endMs": 66880,
+    "text": "2. Listen and choose."
+  },
+  {
+    "id": "c20",
+    "startMs": 76550,
+    "endMs": 81060,
+    "text": "1. The Black hair bear is standing on the stair."
+  },
+  {
+    "id": "c21",
+    "startMs": 83550,
+    "endMs": 86660,
+    "text": "Two. I water the flowers every day."
+  },
+  {
+    "id": "c22",
+    "startMs": 89270,
+    "endMs": 90020,
+    "text": "Three."
+  },
+  {
+    "id": "c23",
+    "startMs": 90920,
+    "endMs": 92800,
+    "text": "We eat roots such as carrots."
+  },
+  {
+    "id": "c24",
+    "startMs": 95400,
+    "endMs": 96200,
+    "text": "Four."
+  },
+  {
+    "id": "c25",
+    "startMs": 97080,
+    "endMs": 100240,
+    "text": "Is the animal keeper going to give the baby giraffes injections?"
+  },
+  {
+    "id": "c26",
+    "startMs": 103120,
+    "endMs": 103920,
+    "text": "Five."
+  },
+  {
+    "id": "c27",
+    "startMs": 104800,
+    "endMs": 108580,
+    "text": "Did you see Momo keeping his head under water for five minutes?"
+  },
+  {
+    "id": "c28",
+    "startMs": 111420,
+    "endMs": 116200,
+    "text": "6. The little kid picked up a pine cone when playing in the park."
+  },
+  {
+    "id": "c29",
+    "startMs": 118900,
+    "endMs": 121620,
+    "text": "3. Listen and complete."
+  },
+  {
+    "id": "c30",
+    "startMs": 131080,
+    "endMs": 134020,
+    "text": "The four o'clock flower is very special."
+  },
+  {
+    "id": "c31",
+    "startMs": 135060,
+    "endMs": 137800,
+    "text": "It has colorful blooms that open in the late afternoon."
+  },
+  {
+    "id": "c32",
+    "startMs": 139100,
+    "endMs": 140420,
+    "text": "It can tell us about the weather."
+  },
+  {
+    "id": "c33",
+    "startMs": 141680,
+    "endMs": 143660,
+    "text": "If the flowers close up early in the morning,"
+  },
+  {
+    "id": "c34",
+    "startMs": 144720,
+    "endMs": 146180,
+    "text": "it is going to be a sunny day."
+  },
+  {
+    "id": "c35",
+    "startMs": 147240,
+    "endMs": 149580,
+    "text": "If the flowers stay open after 6am,"
+  },
+  {
+    "id": "c36",
+    "startMs": 150840,
+    "endMs": 152860,
+    "text": "it will be cloudy or rainy."
+  },
+  {
+    "id": "c37",
+    "startMs": 155040,
+    "endMs": 158800,
+    "text": "These flowers also give off a sweet smell that attracts many insects."
+  },
+  {
+    "id": "c38",
+    "startMs": 160900,
+    "endMs": 163100,
+    "text": "Pine cones react to weather changes too."
+  },
+  {
+    "id": "c39",
+    "startMs": 164820,
+    "endMs": 168660,
+    "text": "They open wide in dry conditions to let their seeds fly away."
+  },
+  {
+    "id": "c40",
+    "startMs": 170380,
+    "endMs": 171280,
+    "text": "But on rainy days,"
+  },
+  {
+    "id": "c41",
+    "startMs": 172180,
+    "endMs": 174400,
+    "text": "they close their cones to protect their seeds."
+  },
+  {
+    "id": "c42",
+    "startMs": 175680,
+    "endMs": 176060,
+    "text": "How amazing!"
+  },
+  {
+    "id": "c43",
+    "startMs": 179120,
+    "endMs": 181400,
+    "text": "The 4 o'clock flower is very special."
+  },
+  {
+    "id": "c44",
+    "startMs": 182440,
+    "endMs": 185200,
+    "text": "It has colorful blooms that open in the late afternoon."
+  },
+  {
+    "id": "c45",
+    "startMs": 186480,
+    "endMs": 187780,
+    "text": "It can tell us about the weather."
+  },
+  {
+    "id": "c46",
+    "startMs": 189080,
+    "endMs": 191060,
+    "text": "If the flowers close up early in the morning,"
+  },
+  {
+    "id": "c47",
+    "startMs": 192100,
+    "endMs": 193540,
+    "text": "it is going to be a sunny day."
+  },
+  {
+    "id": "c48",
+    "startMs": 194600,
+    "endMs": 196940,
+    "text": "If the flowers stay open after 6am,"
+  },
+  {
+    "id": "c49",
+    "startMs": 198340,
+    "endMs": 200220,
+    "text": "it will be cloudy or rainy."
+  },
+  {
+    "id": "c50",
+    "startMs": 202280,
+    "endMs": 206220,
+    "text": "These flowers also give off a sweet smell that attracts many insects."
+  },
+  {
+    "id": "c51",
+    "startMs": 208360,
+    "endMs": 210480,
+    "text": "Pine cones react to weather changes too."
+  },
+  {
+    "id": "c52",
+    "startMs": 212180,
+    "endMs": 216000,
+    "text": "They open wide in dry conditions to let their seeds fly away."
+  },
+  {
+    "id": "c53",
+    "startMs": 217920,
+    "endMs": 218620,
+    "text": "But on rainy days,"
+  },
+  {
+    "id": "c54",
+    "startMs": 219560,
+    "endMs": 221780,
+    "text": "they close their cones to protect their seeds."
+  },
+  {
+    "id": "c55",
+    "startMs": 223140,
+    "endMs": 223460,
+    "text": "How amazing!"
+  },
+  {
+    "id": "c56",
+    "startMs": 225720,
+    "endMs": 225940,
+    "text": "4."
+  },
+  {
+    "id": "c57",
+    "startMs": 226720,
+    "endMs": 227600,
+    "text": "Listen and choose."
+  },
+  {
+    "id": "c58",
+    "startMs": 236220,
+    "endMs": 238800,
+    "text": "and the meat is very special."
+  },
+  {
+    "id": "c59",
+    "startMs": 243360,
+    "endMs": 246200,
+    "text": "They eat small insects like flies and ants."
+  },
+  {
+    "id": "c60",
+    "startMs": 247240,
+    "endMs": 249420,
+    "text": "These plants usually grow in poor soil."
+  },
+  {
+    "id": "c61",
+    "startMs": 250240,
+    "endMs": 252340,
+    "text": "The soil does not give them enough food,"
+  },
+  {
+    "id": "c62",
+    "startMs": 253140,
+    "endMs": 254760,
+    "text": "so they catch insects to live."
+  },
+  {
+    "id": "c63",
+    "startMs": 257570,
+    "endMs": 258960,
+    "text": "is the pitcher plant."
+  },
+  {
+    "id": "c64",
+    "startMs": 260040,
+    "endMs": 262880,
+    "text": "It is a special part like a cup or a pitcher."
+  },
+  {
+    "id": "c65",
+    "startMs": 263940,
+    "endMs": 265300,
+    "text": "This part is filled with sweet"
+  },
+  {
+    "id": "c66",
+    "startMs": 265660,
+    "endMs": 265960,
+    "text": "liquid."
+  },
+  {
+    "id": "c67",
+    "startMs": 267160,
+    "endMs": 268480,
+    "text": "Insects come to drink it,"
+  },
+  {
+    "id": "c68",
+    "startMs": 269180,
+    "endMs": 270020,
+    "text": "but they fall inside."
+  },
+  {
+    "id": "c69",
+    "startMs": 271320,
+    "endMs": 272300,
+    "text": "They cannot get out."
+  },
+  {
+    "id": "c70",
+    "startMs": 273240,
+    "endMs": 273380,
+    "text": "Slowly,"
+  },
+  {
+    "id": "c71",
+    "startMs": 274240,
+    "endMs": 274660,
+    "text": "the plant"
+  },
+  {
+    "id": "c72",
+    "startMs": 274880,
+    "endMs": 278180,
+    "text": "breaks down the insect and uses it for food."
+  },
+  {
+    "id": "c73",
+    "startMs": 279480,
+    "endMs": 282220,
+    "text": "Other meat eating plants use sticky hairs or"
+  },
+  {
+    "id": "c74",
+    "startMs": 282780,
+    "endMs": 284580,
+    "text": "All closing leaves to catch food."
+  },
+  {
+    "id": "c75",
+    "startMs": 285460,
+    "endMs": 286980,
+    "text": "They are not dangerous to people."
+  },
+  {
+    "id": "c76",
+    "startMs": 287900,
+    "endMs": 291220,
+    "text": "They're just amazing and smart plants in nature."
+  },
+  {
+    "id": "c77",
+    "startMs": 294320,
+    "endMs": 296540,
+    "text": "Meat eating plants are very special."
+  },
+  {
+    "id": "c78",
+    "startMs": 297600,
+    "endMs": 299940,
+    "text": "They do not eat only sunlight and water."
+  },
+  {
+    "id": "c79",
+    "startMs": 300800,
+    "endMs": 303620,
+    "text": "They eat small insects like flies and ants."
+  },
+  {
+    "id": "c80",
+    "startMs": 304560,
+    "endMs": 306940,
+    "text": "These plants usually grow in poor soil."
+  },
+  {
+    "id": "c81",
+    "startMs": 307700,
+    "endMs": 309780,
+    "text": "The soil does not give them enough food,"
+  },
+  {
+    "id": "c82",
+    "startMs": 310540,
+    "endMs": 312200,
+    "text": "so they catch insects to live."
+  },
+  {
+    "id": "c83",
+    "startMs": 313360,
+    "endMs": 316400,
+    "text": "One famous meat eating plant is the pitcher plant."
+  },
+  {
+    "id": "c84",
+    "startMs": 317380,
+    "endMs": 320520,
+    "text": "It is a special part like a cup or a pitcher."
+  },
+  {
+    "id": "c85",
+    "startMs": 321280,
+    "endMs": 323240,
+    "text": "This part is filled with sweet liquid."
+  },
+  {
+    "id": "c86",
+    "startMs": 324320,
+    "endMs": 325900,
+    "text": "Insects come to drink it,"
+  },
+  {
+    "id": "c87",
+    "startMs": 326600,
+    "endMs": 327440,
+    "text": "but they fall inside."
+  },
+  {
+    "id": "c88",
+    "startMs": 328680,
+    "endMs": 329740,
+    "text": "They cannot get out."
+  },
+  {
+    "id": "c89",
+    "startMs": 330600,
+    "endMs": 330900,
+    "text": "Slowly,"
+  },
+  {
+    "id": "c90",
+    "startMs": 331660,
+    "endMs": 335660,
+    "text": "the plant breaks down the insect and uses it for food."
+  },
+  {
+    "id": "c91",
+    "startMs": 336700,
+    "endMs": 338820,
+    "text": "Other meat-eating plants use sticky"
+  },
+  {
+    "id": "c92",
+    "startMs": 338820,
+    "endMs": 342020,
+    "text": "hairs or closing leaves to catch food."
+  },
+  {
+    "id": "c93",
+    "startMs": 342860,
+    "endMs": 344380,
+    "text": "They are not dangerous to people."
+  },
+  {
+    "id": "c94",
+    "startMs": 345340,
+    "endMs": 348580,
+    "text": "They're just amazing and smart plants in nature."
+  }
+]
