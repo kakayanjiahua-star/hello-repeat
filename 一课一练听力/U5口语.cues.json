@@ -1,0 +1,410 @@
+[
+  {
+    "id": "c1",
+    "startMs": 180,
+    "endMs": 3440,
+    "text": "Unit 5,"
+  },
+  {
+    "id": "c2",
+    "startMs": 4180,
+    "endMs": 5080,
+    "text": "Exercise for Speaking."
+  },
+  {
+    "id": "c3",
+    "startMs": 5680,
+    "endMs": 7200,
+    "text": "Koyu Lienci, 1,"
+  },
+  {
+    "id": "c4",
+    "startMs": 8000,
+    "endMs": 8500,
+    "text": "Read Allowed."
+  },
+  {
+    "id": "c5",
+    "startMs": 9800,
+    "endMs": 11940,
+    "text": "Sick Cindy in Class says Offley."
+  },
+  {
+    "id": "c6",
+    "startMs": 12940,
+    "endMs": 14040,
+    "text": "Please give me some medicine."
+  },
+  {
+    "id": "c7",
+    "startMs": 15600,
+    "endMs": 18060,
+    "text": "Grace the nurse passes the message sweetly."
+  },
+  {
+    "id": "c8",
+    "startMs": 19160,
+    "endMs": 21800,
+    "text": "Take it slowly and rest with your desk mate."
+  },
+  {
+    "id": "c9",
+    "startMs": 23100,
+    "endMs": 26520,
+    "text": "Sick Cindy in Class says Offley."
+  },
+  {
+    "id": "c10",
+    "startMs": 27560,
+    "endMs": 28640,
+    "text": "Please give me some medicine."
+  },
+  {
+    "id": "c11",
+    "startMs": 30140,
+    "endMs": 32680,
+    "text": "Grace the nurse passes the message sweetly."
+  },
+  {
+    "id": "c12",
+    "startMs": 33720,
+    "endMs": 36400,
+    "text": "Take it slowly and rest with your desk mate."
+  },
+  {
+    "id": "c13",
+    "startMs": 37800,
+    "endMs": 38020,
+    "text": "Two,"
+  },
+  {
+    "id": "c14",
+    "startMs": 38900,
+    "endMs": 39540,
+    "text": "read and say."
+  },
+  {
+    "id": "c15",
+    "startMs": 40900,
+    "endMs": 41300,
+    "text": "One,"
+  },
+  {
+    "id": "c16",
+    "startMs": 42000,
+    "endMs": 43080,
+    "text": "have a runny nose."
+  },
+  {
+    "id": "c17",
+    "startMs": 44440,
+    "endMs": 44680,
+    "text": "Two,"
+  },
+  {
+    "id": "c18",
+    "startMs": 45460,
+    "endMs": 46160,
+    "text": "have a fever."
+  },
+  {
+    "id": "c19",
+    "startMs": 47680,
+    "endMs": 48100,
+    "text": "Three,"
+  },
+  {
+    "id": "c20",
+    "startMs": 48880,
+    "endMs": 49740,
+    "text": "take some medicine."
+  },
+  {
+    "id": "c21",
+    "startMs": 50760,
+    "endMs": 51500,
+    "text": "Four,"
+  },
+  {
+    "id": "c22",
+    "startMs": 52360,
+    "endMs": 53660,
+    "text": "take care of my eyes."
+  },
+  {
+    "id": "c23",
+    "startMs": 54980,
+    "endMs": 57240,
+    "text": "5. Watch less TV"
+  },
+  {
+    "id": "c24",
+    "startMs": 58620,
+    "endMs": 60180,
+    "text": "6. Have a cough"
+  },
+  {
+    "id": "c25",
+    "startMs": 61630,
+    "endMs": 63700,
+    "text": "7. Have a good rest"
+  },
+  {
+    "id": "c26",
+    "startMs": 64700,
+    "endMs": 66860,
+    "text": "8. Do some exercise"
+  },
+  {
+    "id": "c27",
+    "startMs": 67290,
+    "endMs": 68780,
+    "text": "Do some sports"
+  },
+  {
+    "id": "c28",
+    "startMs": 70700,
+    "endMs": 73500,
+    "text": "1. Have a runny nose"
+  },
+  {
+    "id": "c29",
+    "startMs": 74540,
+    "endMs": 76560,
+    "text": "2. Have a fever"
+  },
+  {
+    "id": "c30",
+    "startMs": 77730,
+    "endMs": 80080,
+    "text": "3. Take some medicine"
+  },
+  {
+    "id": "c31",
+    "startMs": 81110,
+    "endMs": 84100,
+    "text": "4. Take care of my eyes"
+  },
+  {
+    "id": "c32",
+    "startMs": 84680,
+    "endMs": 87720,
+    "text": "5. Watch less TV"
+  },
+  {
+    "id": "c33",
+    "startMs": 89040,
+    "endMs": 90620,
+    "text": "6. Have a cough"
+  },
+  {
+    "id": "c34",
+    "startMs": 92050,
+    "endMs": 94220,
+    "text": "7. Have a good rest"
+  },
+  {
+    "id": "c35",
+    "startMs": 95200,
+    "endMs": 97320,
+    "text": "8. Do some exercise."
+  },
+  {
+    "id": "c36",
+    "startMs": 98540,
+    "endMs": 99240,
+    "text": "Do some sports"
+  },
+  {
+    "id": "c37",
+    "startMs": 101390,
+    "endMs": 104580,
+    "text": "4. Sing and make a new rhyme"
+  },
+  {
+    "id": "c38",
+    "startMs": 106700,
+    "endMs": 107540,
+    "text": "Nice doctors."
+  },
+  {
+    "id": "c39",
+    "startMs": 108980,
+    "endMs": 109880,
+    "text": "My arm hurts,"
+  },
+  {
+    "id": "c40",
+    "startMs": 110480,
+    "endMs": 112440,
+    "text": "so I come to see Dr. Wong."
+  },
+  {
+    "id": "c41",
+    "startMs": 113180,
+    "endMs": 114300,
+    "text": "He is very nice and"
+  },
+  {
+    "id": "c42",
+    "startMs": 114320,
+    "endMs": 114680,
+    "text": "and says,"
+  },
+  {
+    "id": "c43",
+    "startMs": 115520,
+    "endMs": 116380,
+    "text": "I know it hurts,"
+  },
+  {
+    "id": "c44",
+    "startMs": 116940,
+    "endMs": 118100,
+    "text": "it's okay to cry."
+  },
+  {
+    "id": "c45",
+    "startMs": 119140,
+    "endMs": 121940,
+    "text": "Try not to touch it and keep it dry."
+  },
+  {
+    "id": "c46",
+    "startMs": 123260,
+    "endMs": 123640,
+    "text": "I cough"
+  },
+  {
+    "id": "c47",
+    "startMs": 123640,
+    "endMs": 125280,
+    "text": "and my nose is runny."
+  },
+  {
+    "id": "c48",
+    "startMs": 126220,
+    "endMs": 129140,
+    "text": "I nurse takes my temperature and then"
+  },
+  {
+    "id": "c49",
+    "startMs": 129140,
+    "endMs": 132540,
+    "text": "I come to see Dr Lee. She is very"
+  },
+  {
+    "id": "c50",
+    "startMs": 132800,
+    "endMs": 133540,
+    "text": "nice and says,"
+  },
+  {
+    "id": "c51",
+    "startMs": 134460,
+    "endMs": 135340,
+    "text": "you have a fever,"
+  },
+  {
+    "id": "c52",
+    "startMs": 136260,
+    "endMs": 137140,
+    "text": "takes a medicine,"
+  },
+  {
+    "id": "c53",
+    "startMs": 138060,
+    "endMs": 140740,
+    "text": "have a good rest and take it easy."
+  },
+  {
+    "id": "c54",
+    "startMs": 144080,
+    "endMs": 144380,
+    "text": "doctors."
+  },
+  {
+    "id": "c55",
+    "startMs": 145620,
+    "endMs": 149100,
+    "text": "My arm hurts, so I come to see Dr. Wong."
+  },
+  {
+    "id": "c56",
+    "startMs": 149900,
+    "endMs": 151440,
+    "text": "He is very nice and says,"
+  },
+  {
+    "id": "c57",
+    "startMs": 152160,
+    "endMs": 152780,
+    "text": "I know it"
+  },
+  {
+    "id": "c58",
+    "startMs": 153000,
+    "endMs": 153220,
+    "text": "hurts."
+  },
+  {
+    "id": "c59",
+    "startMs": 153600,
+    "endMs": 154760,
+    "text": "It's okay to cry."
+  },
+  {
+    "id": "c60",
+    "startMs": 155780,
+    "endMs": 158600,
+    "text": "Try not to touch it and keep it dry."
+  },
+  {
+    "id": "c61",
+    "startMs": 159940,
+    "endMs": 161560,
+    "text": "I cough and my nose is"
+  },
+  {
+    "id": "c62",
+    "startMs": 161740,
+    "endMs": 161960,
+    "text": "runny."
+  },
+  {
+    "id": "c63",
+    "startMs": 162860,
+    "endMs": 165960,
+    "text": "I nurse takes my temperature and then I"
+  },
+  {
+    "id": "c64",
+    "startMs": 165960,
+    "endMs": 169920,
+    "text": "come to see Dr. Lee. She is very nice and"
+  },
+  {
+    "id": "c65",
+    "startMs": 170000,
+    "endMs": 170380,
+    "text": "It says,"
+  },
+  {
+    "id": "c66",
+    "startMs": 171120,
+    "endMs": 171960,
+    "text": "You have a fever,"
+  },
+  {
+    "id": "c67",
+    "startMs": 172920,
+    "endMs": 173780,
+    "text": "take some medicine,"
+  },
+  {
+    "id": "c68",
+    "startMs": 174700,
+    "endMs": 177360,
+    "text": "have a good rest and take it easy."
+  }
+]

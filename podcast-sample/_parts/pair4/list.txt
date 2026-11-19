@@ -1,0 +1,7 @@
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/1.mp3'
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/gap.mp3'
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/2.mp3'
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/gap.mp3'
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/3.mp3'
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/gap.mp3'
+file 'D:/小工具/复读机/hello-repeat/web/public/podcast-sample/_parts/pair4/4.mp3'

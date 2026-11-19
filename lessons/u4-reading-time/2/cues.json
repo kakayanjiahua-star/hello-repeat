@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "startMs": 1700,
+    "endMs": 3780,
+    "text": "Pages 38 and 39."
+  },
+  {
+    "id": "2",
+    "startMs": 4840,
+    "endMs": 5260,
+    "text": "Reading time"
+  },
+  {
+    "id": "3",
+    "startMs": 6420,
+    "endMs": 7720,
+    "text": "An animal keeper's diary"
+  },
+  {
+    "id": "4",
+    "startMs": 9740,
+    "endMs": 12160,
+    "text": "Monday, 28 March"
+  },
+  {
+    "id": "5",
+    "startMs": 13120,
+    "endMs": 13400,
+    "text": "Sunny"
+  },
+  {
+    "id": "6",
+    "startMs": 15920,
+    "endMs": 17660,
+    "text": "Sangsang is a panda cub."
+  },
+  {
+    "id": "7",
+    "startMs": 18820,
+    "endMs": 20400,
+    "text": "I saw her birth last week."
+  },
+  {
+    "id": "8",
+    "startMs": 21400,
+    "endMs": 23220,
+    "text": "She looks different from her mother."
+  },
+  {
+    "id": "9",
+    "startMs": 24200,
+    "endMs": 29460,
+    "text": "She isn't black and white, but pink with a little bit of white hair."
+  },
+  {
+    "id": "10",
+    "startMs": 30720,
+    "endMs": 34100,
+    "text": "She can't open her eyes, but she can crawl."
+  },
+  {
+    "id": "11",
+    "startMs": 35040,
+    "endMs": 36220,
+    "text": "She is so lovely!"
+  },
+  {
+    "id": "12",
+    "startMs": 38240,
+    "endMs": 40940,
+    "text": "Saturday, 16 April"
+  },
+  {
+    "id": "13",
+    "startMs": 41760,
+    "endMs": 42220,
+    "text": "Cloudy"
+  },
+  {
+    "id": "14",
+    "startMs": 44220,
+    "endMs": 47220,
+    "text": "Momo, the hippo, is one month old."
+  },
+  {
+    "id": "15",
+    "startMs": 48380,
+    "endMs": 50540,
+    "text": "He spends the day resting in the water."
+  },
+  {
+    "id": "16",
+    "startMs": 51620,
+    "endMs": 53340,
+    "text": "He can walk in the water."
+  },
+  {
+    "id": "17",
+    "startMs": 54840,
+    "endMs": 58800,
+    "text": "At night, he goes with his mother to sleep on land."
+  },
+  {
+    "id": "18",
+    "startMs": 60640,
+    "endMs": 62620,
+    "text": "Momo is learning how to dive."
+  },
+  {
+    "id": "19",
+    "startMs": 64380,
+    "endMs": 68880,
+    "text": "Today, I saw Momo keeping his head under water for 5 minutes."
+  },
+  {
+    "id": "20",
+    "startMs": 70800,
+    "endMs": 72920,
+    "text": "Tuesday, 31 May"
+  },
+  {
+    "id": "21",
+    "startMs": 73640,
+    "endMs": 74120,
+    "text": "Cloudy"
+  },
+  {
+    "id": "22",
+    "startMs": 75700,
+    "endMs": 78760,
+    "text": "Kangkang is a nineteen-year-old Asian elephant."
+  },
+  {
+    "id": "23",
+    "startMs": 80120,
+    "endMs": 82560,
+    "text": "In eight months, she will be a mother."
+  },
+  {
+    "id": "24",
+    "startMs": 83520,
+    "endMs": 87080,
+    "text": "At noon, she often stands under trees and sleeps."
+  },
+  {
+    "id": "25",
+    "startMs": 88000,
+    "endMs": 91960,
+    "text": "In the afternoon, she eats a lot of grass and leaves."
+  }
+]

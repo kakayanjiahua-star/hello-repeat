@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "startMs": 14880,
+    "endMs": 16240,
+    "text": "Welcome, boys and girls!"
+  },
+  {
+    "id": "2",
+    "startMs": 16960,
+    "endMs": 18380,
+    "text": "It’s our Science Day."
+  },
+  {
+    "id": "3",
+    "startMs": 19120,
+    "endMs": 23980,
+    "text": "We have Mr Qian with us to talk about some new inventions."
+  },
+  {
+    "id": "4",
+    "startMs": 24940,
+    "endMs": 29480,
+    "text": "Hi, I’ve got some interesting things to tell you today."
+  },
+  {
+    "id": "5",
+    "startMs": 30580,
+    "endMs": 34180,
+    "text": "Look, this invention is very useful."
+  },
+  {
+    "id": "6",
+    "startMs": 35600,
+    "endMs": 42100,
+    "text": "You pour in sea water and let the sun do the work for a few hours."
+  },
+  {
+    "id": "7",
+    "startMs": 43620,
+    "endMs": 46400,
+    "text": "Then you have clean fresh water!"
+  },
+  {
+    "id": "9",
+    "startMs": 50800,
+    "endMs": 58660,
+    "text": "Look, these are also great inventions from Chinese scientists."
+  },
+  {
+    "id": "10",
+    "startMs": 60240,
+    "endMs": 65540,
+    "text": "In 2019, they explored the “dark” side of the moon."
+  },
+  {
+    "id": "11",
+    "startMs": 67880,
+    "endMs": 71500,
+    "text": "Oh, Chang’e-4 and Yutu-2."
+  },
+  {
+    "id": "13",
+    "startMs": 74880,
+    "endMs": 75400,
+    "text": "Yes."
+  },
+  {
+    "id": "14",
+    "startMs": 76260,
+    "endMs": 82460,
+    "text": "We know so little about that part of the moon and it’s important to find out more."
+  }
+]

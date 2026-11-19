@@ -1,0 +1,764 @@
+[
+  {
+    "id": "c1",
+    "startMs": 100,
+    "endMs": 6020,
+    "text": "Unit 5. Exercise for listening."
+  },
+  {
+    "id": "c2",
+    "startMs": 7720,
+    "endMs": 9300,
+    "text": "1. Listen and choose."
+  },
+  {
+    "id": "c3",
+    "startMs": 17020,
+    "endMs": 20300,
+    "text": "1. Mih-mi-n doesn't feel well."
+  },
+  {
+    "id": "c4",
+    "startMs": 21140,
+    "endMs": 23160,
+    "text": "He has a fever and a runny nose."
+  },
+  {
+    "id": "c5",
+    "startMs": 25330,
+    "endMs": 28760,
+    "text": "2. A kind nurse takes Min Min's temperature."
+  },
+  {
+    "id": "c6",
+    "startMs": 30560,
+    "endMs": 34420,
+    "text": "3. Dr Lee gives maiming some tips,"
+  },
+  {
+    "id": "c7",
+    "startMs": 35040,
+    "endMs": 36500,
+    "text": "and he listens carefully."
+  },
+  {
+    "id": "c8",
+    "startMs": 39420,
+    "endMs": 41600,
+    "text": "4. Mimin should take some medicine,"
+  },
+  {
+    "id": "c9",
+    "startMs": 41600,
+    "endMs": 43660,
+    "text": "but the medicine tastes bitter."
+  },
+  {
+    "id": "c10",
+    "startMs": 45980,
+    "endMs": 51380,
+    "text": "5. Mimin needs to have a good rest and do some exercise twice a day."
+  },
+  {
+    "id": "c11",
+    "startMs": 53120,
+    "endMs": 55100,
+    "text": "2."
+  },
+  {
+    "id": "c12",
+    "startMs": 55660,
+    "endMs": 56480,
+    "text": "Listen and match."
+  },
+  {
+    "id": "c13",
+    "startMs": 69060,
+    "endMs": 72000,
+    "text": "1. Min Min, you have a fever and a cough."
+  },
+  {
+    "id": "c14",
+    "startMs": 72700,
+    "endMs": 74560,
+    "text": "Take your temperature every 4 hours."
+  },
+  {
+    "id": "c15",
+    "startMs": 76380,
+    "endMs": 80120,
+    "text": "2. Shao Pu. Wrap the bandage tightly."
+  },
+  {
+    "id": "c16",
+    "startMs": 80900,
+    "endMs": 82840,
+    "text": "Keep your hurt fingers straight for bone healing."
+  },
+  {
+    "id": "c17",
+    "startMs": 85000,
+    "endMs": 85740,
+    "text": "3."
+  },
+  {
+    "id": "c18",
+    "startMs": 86560,
+    "endMs": 88520,
+    "text": "Shaozhang, stop rubbing your eyes."
+  },
+  {
+    "id": "c19",
+    "startMs": 89420,
+    "endMs": 91960,
+    "text": "Use these eyedrops twice a day before sleep."
+  },
+  {
+    "id": "c20",
+    "startMs": 93580,
+    "endMs": 94880,
+    "text": "4."
+  },
+  {
+    "id": "c21",
+    "startMs": 95640,
+    "endMs": 95880,
+    "text": "Shenzhen,"
+  },
+  {
+    "id": "c22",
+    "startMs": 96360,
+    "endMs": 99720,
+    "text": "for stomach pain you can drink warm ginger tea to feel better."
+  },
+  {
+    "id": "c23",
+    "startMs": 102200,
+    "endMs": 102440,
+    "text": "5."
+  },
+  {
+    "id": "c24",
+    "startMs": 103020,
+    "endMs": 103380,
+    "text": "Yao Yao,"
+  },
+  {
+    "id": "c25",
+    "startMs": 104000,
+    "endMs": 105820,
+    "text": "do you sneeze and have a stuffy nose?"
+  },
+  {
+    "id": "c26",
+    "startMs": 106420,
+    "endMs": 107280,
+    "text": "Breathe in some steam."
+  },
+  {
+    "id": "c27",
+    "startMs": 108980,
+    "endMs": 110180,
+    "text": "3."
+  },
+  {
+    "id": "c28",
+    "startMs": 110820,
+    "endMs": 111680,
+    "text": "Listen and judge."
+  },
+  {
+    "id": "c29",
+    "startMs": 112660,
+    "endMs": 115760,
+    "text": "So, you can't see the same thing."
+  },
+  {
+    "id": "c30",
+    "startMs": 115760,
+    "endMs": 116420,
+    "text": "You can't see the same thing."
+  },
+  {
+    "id": "c31",
+    "startMs": 117780,
+    "endMs": 117880,
+    "text": "You"
+  },
+  {
+    "id": "c32",
+    "startMs": 118660,
+    "endMs": 120540,
+    "text": "can't see the same thing."
+  },
+  {
+    "id": "c33",
+    "startMs": 120540,
+    "endMs": 124260,
+    "text": "You can't see the same thing."
+  },
+  {
+    "id": "c34",
+    "startMs": 125390,
+    "endMs": 126380,
+    "text": "You can't see the same thing."
+  },
+  {
+    "id": "c35",
+    "startMs": 126380,
+    "endMs": 128220,
+    "text": "You can't see the same thing."
+  },
+  {
+    "id": "c36",
+    "startMs": 128220,
+    "endMs": 128620,
+    "text": "So,"
+  },
+  {
+    "id": "c37",
+    "startMs": 128760,
+    "endMs": 129960,
+    "text": "you can't see the same thing."
+  },
+  {
+    "id": "c38",
+    "startMs": 129960,
+    "endMs": 130660,
+    "text": "So,"
+  },
+  {
+    "id": "c39",
+    "startMs": 133960,
+    "endMs": 136620,
+    "text": "you can't see the same thing."
+  },
+  {
+    "id": "c40",
+    "startMs": 138780,
+    "endMs": 141880,
+    "text": "So, you can't see the same thing."
+  },
+  {
+    "id": "c41",
+    "startMs": 141900,
+    "endMs": 142960,
+    "text": "if your eyes hurt."
+  },
+  {
+    "id": "c42",
+    "startMs": 145720,
+    "endMs": 149080,
+    "text": "4. Take all medicine at once to save time."
+  },
+  {
+    "id": "c43",
+    "startMs": 151470,
+    "endMs": 155340,
+    "text": "5. Ride a bike more to make your legs stronger."
+  },
+  {
+    "id": "c44",
+    "startMs": 156920,
+    "endMs": 159660,
+    "text": "4. Listen and choose."
+  },
+  {
+    "id": "c45",
+    "startMs": 160360,
+    "endMs": 160560,
+    "text": "Meaning,"
+  },
+  {
+    "id": "c46",
+    "startMs": 160900,
+    "endMs": 162660,
+    "text": "you don't have to worry about your body."
+  },
+  {
+    "id": "c47",
+    "startMs": 165600,
+    "endMs": 168880,
+    "text": "You don't have to worry about your body."
+  },
+  {
+    "id": "c48",
+    "startMs": 168900,
+    "endMs": 173160,
+    "text": "One. I fell during the football match."
+  },
+  {
+    "id": "c49",
+    "startMs": 173660,
+    "endMs": 174540,
+    "text": "My left leg hurts."
+  },
+  {
+    "id": "c50",
+    "startMs": 175680,
+    "endMs": 176880,
+    "text": "Take it easy with your left"
+  },
+  {
+    "id": "c51",
+    "startMs": 176880,
+    "endMs": 177240,
+    "text": "leg."
+  },
+  {
+    "id": "c52",
+    "startMs": 177820,
+    "endMs": 179560,
+    "text": "No sports for three days, Tom."
+  },
+  {
+    "id": "c53",
+    "startMs": 181690,
+    "endMs": 186580,
+    "text": "Two. My eyes burn after playing phone games all night."
+  },
+  {
+    "id": "c54",
+    "startMs": 187600,
+    "endMs": 189180,
+    "text": "Red, watery eyes need rest."
+  },
+  {
+    "id": "c55",
+    "startMs": 189920,
+    "endMs": 190000,
+    "text": "Use"
+  },
+  {
+    "id": "c56",
+    "startMs": 190120,
+    "endMs": 191880,
+    "text": "Use these eye drops twice a day."
+  },
+  {
+    "id": "c57",
+    "startMs": 194340,
+    "endMs": 194640,
+    "text": "3."
+  },
+  {
+    "id": "c58",
+    "startMs": 195680,
+    "endMs": 198760,
+    "text": "I have a dry cough and fever since this morning."
+  },
+  {
+    "id": "c59",
+    "startMs": 199920,
+    "endMs": 201340,
+    "text": "Drink warm honey water."
+  },
+  {
+    "id": "c60",
+    "startMs": 202020,
+    "endMs": 203500,
+    "text": "Take the medicine twice a day."
+  },
+  {
+    "id": "c61",
+    "startMs": 204160,
+    "endMs": 205380,
+    "text": "If your fever rises,"
+  },
+  {
+    "id": "c62",
+    "startMs": 205960,
+    "endMs": 207130,
+    "text": "go to the hospital immediately."
+  },
+  {
+    "id": "c63",
+    "startMs": 209240,
+    "endMs": 211420,
+    "text": "4."
+  },
+  {
+    "id": "c64",
+    "startMs": 211880,
+    "endMs": 212800,
+    "text": "Kids, remember,"
+  },
+  {
+    "id": "c65",
+    "startMs": 213740,
+    "endMs": 216800,
+    "text": "ancient doctor Huatua used herbs for pain."
+  },
+  {
+    "id": "c66",
+    "startMs": 218950,
+    "endMs": 221740,
+    "text": "5. About screen time."
+  },
+  {
+    "id": "c67",
+    "startMs": 222820,
+    "endMs": 225220,
+    "text": "Remember the 2020 rule kids."
+  },
+  {
+    "id": "c68",
+    "startMs": 226140,
+    "endMs": 227120,
+    "text": "Every 20 minutes,"
+  },
+  {
+    "id": "c69",
+    "startMs": 227760,
+    "endMs": 228980,
+    "text": "look 20 feet away,"
+  },
+  {
+    "id": "c70",
+    "startMs": 229520,
+    "endMs": 230620,
+    "text": "for 20 seconds."
+  },
+  {
+    "id": "c71",
+    "startMs": 232720,
+    "endMs": 235700,
+    "text": "5. Listen and complete."
+  },
+  {
+    "id": "c72",
+    "startMs": 245330,
+    "endMs": 246380,
+    "text": "I'm Dr. Wang."
+  },
+  {
+    "id": "c73",
+    "startMs": 247040,
+    "endMs": 248980,
+    "text": "Today is September 15th."
+  },
+  {
+    "id": "c74",
+    "startMs": 250380,
+    "endMs": 255440,
+    "text": "Case 1. Tom. Came at 10am after football match."
+  },
+  {
+    "id": "c75",
+    "startMs": 256400,
+    "endMs": 258020,
+    "text": "Bad pain in his left leg."
+  },
+  {
+    "id": "c76",
+    "startMs": 258920,
+    "endMs": 259700,
+    "text": "Can't walk well."
+  },
+  {
+    "id": "c77",
+    "startMs": 261040,
+    "endMs": 261360,
+    "text": "My Tips?"
+  },
+  {
+    "id": "c78",
+    "startMs": 262940,
+    "endMs": 263340,
+    "text": "First,"
+  },
+  {
+    "id": "c79",
+    "startMs": 263840,
+    "endMs": 265840,
+    "text": "Rest from all sports for 3 days."
+  },
+  {
+    "id": "c80",
+    "startMs": 267660,
+    "endMs": 267720,
+    "text": "Second,"
+  },
+  {
+    "id": "c81",
+    "startMs": 268720,
+    "endMs": 270200,
+    "text": "Use Ice twice a day."
+  },
+  {
+    "id": "c82",
+    "startMs": 271180,
+    "endMs": 272480,
+    "text": "Morning and after school."
+  },
+  {
+    "id": "c83",
+    "startMs": 273540,
+    "endMs": 274320,
+    "text": "Come back on Friday."
+  },
+  {
+    "id": "c84",
+    "startMs": 276560,
+    "endMs": 277020,
+    "text": "Case 2,"
+  },
+  {
+    "id": "c85",
+    "startMs": 277760,
+    "endMs": 278040,
+    "text": "Lucy."
+  },
+  {
+    "id": "c86",
+    "startMs": 279460,
+    "endMs": 280900,
+    "text": "Came at 11.30am."
+  },
+  {
+    "id": "c87",
+    "startMs": 282140,
+    "endMs": 283840,
+    "text": "Can't see clearly since yesterday."
+  },
+  {
+    "id": "c88",
+    "startMs": 284720,
+    "endMs": 284820,
+    "text": "Plus,"
+  },
+  {
+    "id": "c89",
+    "startMs": 285620,
+    "endMs": 286110,
+    "text": "bad headache."
+  },
+  {
+    "id": "c90",
+    "startMs": 287400,
+    "endMs": 287660,
+    "text": "My tips,"
+  },
+  {
+    "id": "c91",
+    "startMs": 288900,
+    "endMs": 290240,
+    "text": "use eye drops twice a day."
+  },
+  {
+    "id": "c92",
+    "startMs": 291280,
+    "endMs": 293920,
+    "text": "Before breakfast and before bedtime."
+  },
+  {
+    "id": "c93",
+    "startMs": 294780,
+    "endMs": 297440,
+    "text": "Must rest in a dark room one hour daily."
+  },
+  {
+    "id": "c94",
+    "startMs": 298660,
+    "endMs": 299260,
+    "text": "No phone use."
+  },
+  {
+    "id": "c95",
+    "startMs": 301840,
+    "endMs": 302220,
+    "text": "Case 3,"
+  },
+  {
+    "id": "c96",
+    "startMs": 303100,
+    "endMs": 303360,
+    "text": "bend."
+  },
+  {
+    "id": "c97",
+    "startMs": 304880,
+    "endMs": 306860,
+    "text": "High temperature at 2 p.m."
+  },
+  {
+    "id": "c98",
+    "startMs": 308600,
+    "endMs": 312000,
+    "text": "Fever over 38 degrees Celsius with dry cough."
+  },
+  {
+    "id": "c99",
+    "startMs": 313440,
+    "endMs": 313700,
+    "text": "My Tips"
+  },
+  {
+    "id": "c100",
+    "startMs": 315180,
+    "endMs": 319540,
+    "text": "Drink warm honey water Take medicine after lunch and dinner"
+  },
+  {
+    "id": "c101",
+    "startMs": 321090,
+    "endMs": 328560,
+    "text": "I'm Dr. Wong Today is September 15th Case 1 Tom"
+  },
+  {
+    "id": "c102",
+    "startMs": 329840,
+    "endMs": 332040,
+    "text": "came at 10am after football match"
+  },
+  {
+    "id": "c103",
+    "startMs": 332920,
+    "endMs": 334600,
+    "text": "Bad pain in his left leg"
+  },
+  {
+    "id": "c104",
+    "startMs": 335440,
+    "endMs": 336280,
+    "text": "Can't walk well"
+  },
+  {
+    "id": "c105",
+    "startMs": 337580,
+    "endMs": 342380,
+    "text": "My Tips First Rest from all sports for 3 days"
+  },
+  {
+    "id": "c106",
+    "startMs": 343450,
+    "endMs": 344200,
+    "text": "Second,"
+  },
+  {
+    "id": "c107",
+    "startMs": 345320,
+    "endMs": 346780,
+    "text": "use ice twice a day,"
+  },
+  {
+    "id": "c108",
+    "startMs": 347680,
+    "endMs": 349060,
+    "text": "morning and after school."
+  },
+  {
+    "id": "c109",
+    "startMs": 350100,
+    "endMs": 350900,
+    "text": "Come back on Friday."
+  },
+  {
+    "id": "c110",
+    "startMs": 353120,
+    "endMs": 353620,
+    "text": "Case 2,"
+  },
+  {
+    "id": "c111",
+    "startMs": 354280,
+    "endMs": 354760,
+    "text": "Lucy,"
+  },
+  {
+    "id": "c112",
+    "startMs": 355940,
+    "endMs": 357580,
+    "text": "came at 11.30 am,"
+  },
+  {
+    "id": "c113",
+    "startMs": 358640,
+    "endMs": 360420,
+    "text": "can't see clearly since yesterday,"
+  },
+  {
+    "id": "c114",
+    "startMs": 361220,
+    "endMs": 362720,
+    "text": "plus bad headache."
+  },
+  {
+    "id": "c115",
+    "startMs": 363940,
+    "endMs": 364200,
+    "text": "My tips,"
+  },
+  {
+    "id": "c116",
+    "startMs": 365440,
+    "endMs": 366880,
+    "text": "use eye drops twice a day,"
+  },
+  {
+    "id": "c117",
+    "startMs": 367800,
+    "endMs": 370480,
+    "text": "before breakfast and before bedtime,"
+  },
+  {
+    "id": "c118",
+    "startMs": 371360,
+    "endMs": 372280,
+    "text": "must rest in"
+  },
+  {
+    "id": "c119",
+    "startMs": 372280,
+    "endMs": 374020,
+    "text": "a dark room one hour daily."
+  },
+  {
+    "id": "c120",
+    "startMs": 375260,
+    "endMs": 375820,
+    "text": "No phone use."
+  },
+  {
+    "id": "c121",
+    "startMs": 378400,
+    "endMs": 378780,
+    "text": "Case 3,"
+  },
+  {
+    "id": "c122",
+    "startMs": 379640,
+    "endMs": 379940,
+    "text": "bend."
+  },
+  {
+    "id": "c123",
+    "startMs": 381460,
+    "endMs": 383240,
+    "text": "High temperature at 2pm."
+  },
+  {
+    "id": "c124",
+    "startMs": 385360,
+    "endMs": 388560,
+    "text": "Fever over 38 degrees Celsius with dry cough."
+  },
+  {
+    "id": "c125",
+    "startMs": 390020,
+    "endMs": 390280,
+    "text": "My tips?"
+  },
+  {
+    "id": "c126",
+    "startMs": 391820,
+    "endMs": 393060,
+    "text": "Drink warm honey water."
+  },
+  {
+    "id": "c127",
+    "startMs": 394000,
+    "endMs": 396040,
+    "text": "Take medicine after lunch and dinner."
+  }
+]

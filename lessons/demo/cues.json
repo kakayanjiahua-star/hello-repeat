@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "startMs": 200,
+    "endMs": 2720,
+    "text": "Hello, welcome to our little garden."
+  },
+  {
+    "id": "2",
+    "startMs": 4040,
+    "endMs": 6320,
+    "text": "Bright sunshine makes the flowers grow."
+  },
+  {
+    "id": "3",
+    "startMs": 7520,
+    "endMs": 9760,
+    "text": "I can see a small bird near the tree."
+  },
+  {
+    "id": "4",
+    "startMs": 10900,
+    "endMs": 13200,
+    "text": "Let us listen and say the words again."
+  }
+]

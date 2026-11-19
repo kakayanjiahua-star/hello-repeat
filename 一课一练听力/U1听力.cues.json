@@ -1,0 +1,788 @@
+[
+  {
+    "id": "c1",
+    "startMs": 220,
+    "endMs": 1260,
+    "text": "1."
+  },
+  {
+    "id": "c2",
+    "startMs": 22580,
+    "endMs": 23080,
+    "text": "Unit 1."
+  },
+  {
+    "id": "c3",
+    "startMs": 24140,
+    "endMs": 24960,
+    "text": "Exercise for listening."
+  },
+  {
+    "id": "c4",
+    "startMs": 25820,
+    "endMs": 25840,
+    "text": "2."
+  },
+  {
+    "id": "c5",
+    "startMs": 26520,
+    "endMs": 28640,
+    "text": "1. Listen and circle."
+  },
+  {
+    "id": "c6",
+    "startMs": 29320,
+    "endMs": 29780,
+    "text": "Ting ying,"
+  },
+  {
+    "id": "c7",
+    "startMs": 30100,
+    "endMs": 32700,
+    "text": "chan chuotintaou datsu mou hou zu wutu hou."
+  },
+  {
+    "id": "c8",
+    "startMs": 34840,
+    "endMs": 38540,
+    "text": "1. I pack my school bag in my bedroom."
+  },
+  {
+    "id": "c9",
+    "startMs": 41030,
+    "endMs": 45840,
+    "text": "2. My photos can keep the sweet moments in my life."
+  },
+  {
+    "id": "c10",
+    "startMs": 48710,
+    "endMs": 51880,
+    "text": "3. Look at the funny picture of the cat."
+  },
+  {
+    "id": "c11",
+    "startMs": 52380,
+    "endMs": 57780,
+    "text": "4. The flower is very beautiful."
+  },
+  {
+    "id": "c12",
+    "startMs": 60420,
+    "endMs": 64100,
+    "text": "5. I can glue the paper to make a card."
+  },
+  {
+    "id": "c13",
+    "startMs": 66700,
+    "endMs": 69740,
+    "text": "6. She has a very nice pet."
+  },
+  {
+    "id": "c14",
+    "startMs": 71500,
+    "endMs": 74300,
+    "text": "2. Listen and match."
+  },
+  {
+    "id": "c15",
+    "startMs": 83040,
+    "endMs": 86100,
+    "text": "I love sports."
+  },
+  {
+    "id": "c16",
+    "startMs": 87040,
+    "endMs": 90520,
+    "text": "Playing basketball with my friends after school is so much fun."
+  },
+  {
+    "id": "c17",
+    "startMs": 91260,
+    "endMs": 91580,
+    "text": "I'm going"
+  },
+  {
+    "id": "c18",
+    "startMs": 91580,
+    "endMs": 93540,
+    "text": "to join the basketball club this term."
+  },
+  {
+    "id": "c19",
+    "startMs": 96160,
+    "endMs": 98100,
+    "text": "2. I'm Xiao Zhang."
+  },
+  {
+    "id": "c20",
+    "startMs": 98920,
+    "endMs": 100440,
+    "text": "My hobby is taking photos."
+  },
+  {
+    "id": "c21",
+    "startMs": 101460,
+    "endMs": 103820,
+    "text": "The photo club teaches me how to use a camera"
+  },
+  {
+    "id": "c22",
+    "startMs": 104920,
+    "endMs": 107460,
+    "text": "I want to keep the sweet moments in my life."
+  },
+  {
+    "id": "c23",
+    "startMs": 109600,
+    "endMs": 111800,
+    "text": "3. I'm Shailpu."
+  },
+  {
+    "id": "c24",
+    "startMs": 112700,
+    "endMs": 114300,
+    "text": "The ball is not big like the basketball,"
+  },
+  {
+    "id": "c25",
+    "startMs": 114940,
+    "endMs": 118460,
+    "text": "but I'm really good at hitting it back and forth across the table."
+  },
+  {
+    "id": "c26",
+    "startMs": 119240,
+    "endMs": 121020,
+    "text": "I'm going to join the ping pong club."
+  },
+  {
+    "id": "c27",
+    "startMs": 123780,
+    "endMs": 124940,
+    "text": "4. I'm James."
+  },
+  {
+    "id": "c28",
+    "startMs": 125960,
+    "endMs": 126520,
+    "text": "I enjoy drawing."
+  },
+  {
+    "id": "c29",
+    "startMs": 127460,
+    "endMs": 129340,
+    "text": "It's relaxing to draw something beautiful."
+  },
+  {
+    "id": "c30",
+    "startMs": 130300,
+    "endMs": 132180,
+    "text": "I'm going to give the art club a try."
+  },
+  {
+    "id": "c31",
+    "startMs": 134980,
+    "endMs": 137780,
+    "text": "5. I'm Yao Yao. I love music."
+  },
+  {
+    "id": "c32",
+    "startMs": 138560,
+    "endMs": 139240,
+    "text": "And I like dancing."
+  },
+  {
+    "id": "c33",
+    "startMs": 140340,
+    "endMs": 141820,
+    "text": "I practice dancing every Tuesday"
+  },
+  {
+    "id": "c34",
+    "startMs": 141820,
+    "endMs": 143540,
+    "text": "and Thursday after school."
+  },
+  {
+    "id": "c35",
+    "startMs": 144520,
+    "endMs": 146400,
+    "text": "I'm going to join the dancing club."
+  },
+  {
+    "id": "c36",
+    "startMs": 148800,
+    "endMs": 151780,
+    "text": "3. Listen and choose."
+  },
+  {
+    "id": "c37",
+    "startMs": 152920,
+    "endMs": 153340,
+    "text": "Miss Li,"
+  },
+  {
+    "id": "c38",
+    "startMs": 153680,
+    "endMs": 156360,
+    "text": "Tae Xing went home to a man sent a short one to the team club."
+  },
+  {
+    "id": "c39",
+    "startMs": 157040,
+    "endMs": 187020,
+    "text": "이재재재재다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다지다�"
+  },
+  {
+    "id": "c40",
+    "startMs": 198590,
+    "endMs": 202500,
+    "text": "I'm thinking about joining a club this term."
+  },
+  {
+    "id": "c41",
+    "startMs": 203300,
+    "endMs": 204420,
+    "text": "There are so many clubs."
+  },
+  {
+    "id": "c42",
+    "startMs": 205340,
+    "endMs": 206760,
+    "text": "What club do you think I should join?"
+  },
+  {
+    "id": "c43",
+    "startMs": 207040,
+    "endMs": 207140,
+    "text": "Well,"
+  },
+  {
+    "id": "c44",
+    "startMs": 208280,
+    "endMs": 209560,
+    "text": "there's the music club,"
+  },
+  {
+    "id": "c45",
+    "startMs": 210300,
+    "endMs": 212600,
+    "text": "the sports club and the art club."
+  },
+  {
+    "id": "c46",
+    "startMs": 213540,
+    "endMs": 214400,
+    "text": "Which one are you most"
+  },
+  {
+    "id": "c47",
+    "startMs": 214800,
+    "endMs": 215400,
+    "text": "interested in?"
+  },
+  {
+    "id": "c48",
+    "startMs": 216260,
+    "endMs": 216420,
+    "text": "Well,"
+  },
+  {
+    "id": "c49",
+    "startMs": 217020,
+    "endMs": 219580,
+    "text": "I like sports and I play sports a lot,"
+  },
+  {
+    "id": "c50",
+    "startMs": 220340,
+    "endMs": 222040,
+    "text": "but I don't know much about music."
+  },
+  {
+    "id": "c51",
+    "startMs": 222980,
+    "endMs": 224240,
+    "text": "What about the art club?"
+  },
+  {
+    "id": "c52",
+    "startMs": 225220,
+    "endMs": 226220,
+    "text": "I know it's really fun."
+  },
+  {
+    "id": "c53",
+    "startMs": 227100,
+    "endMs": 229120,
+    "text": "We can draw and paint our own pictures"
+  },
+  {
+    "id": "c54",
+    "startMs": 229400,
+    "endMs": 229520,
+    "text": "there."
+  },
+  {
+    "id": "c55",
+    "startMs": 230180,
+    "endMs": 231700,
+    "text": "It's drawing or painting difficult."
+  },
+  {
+    "id": "c56",
+    "startMs": 232660,
+    "endMs": 233100,
+    "text": "Not really."
+  },
+  {
+    "id": "c57",
+    "startMs": 234040,
+    "endMs": 235420,
+    "text": "Ms. Wong is a great teacher."
+  },
+  {
+    "id": "c58",
+    "startMs": 236640,
+    "endMs": 237700,
+    "text": "She can teach us a lot."
+  },
+  {
+    "id": "c59",
+    "startMs": 238800,
+    "endMs": 241480,
+    "text": "And it's a good way to learn about culture through art."
+  },
+  {
+    "id": "c60",
+    "startMs": 242400,
+    "endMs": 242820,
+    "text": "For example,"
+  },
+  {
+    "id": "c61",
+    "startMs": 243760,
+    "endMs": 246120,
+    "text": "Chinese ink painting has a long history."
+  },
+  {
+    "id": "c62",
+    "startMs": 247160,
+    "endMs": 248200,
+    "text": "That sounds interesting."
+  },
+  {
+    "id": "c63",
+    "startMs": 249300,
+    "endMs": 250620,
+    "text": "I like learning new things."
+  },
+  {
+    "id": "c64",
+    "startMs": 251420,
+    "endMs": 253240,
+    "text": "And I can be creative with painting."
+  },
+  {
+    "id": "c65",
+    "startMs": 255400,
+    "endMs": 257100,
+    "text": "We can learn something special together."
+  },
+  {
+    "id": "c66",
+    "startMs": 258060,
+    "endMs": 259640,
+    "text": "Let's give the art club a try."
+  },
+  {
+    "id": "c67",
+    "startMs": 260480,
+    "endMs": 260520,
+    "text": "Okay,"
+  },
+  {
+    "id": "c68",
+    "startMs": 261180,
+    "endMs": 261460,
+    "text": "I'm in."
+  },
+  {
+    "id": "c69",
+    "startMs": 262300,
+    "endMs": 263720,
+    "text": "Let's join the art club together."
+  },
+  {
+    "id": "c70",
+    "startMs": 267030,
+    "endMs": 268460,
+    "text": "Hey, Xiao Zhan,"
+  },
+  {
+    "id": "c71",
+    "startMs": 269080,
+    "endMs": 271360,
+    "text": "I'm thinking about joining a club this term."
+  },
+  {
+    "id": "c72",
+    "startMs": 272180,
+    "endMs": 273240,
+    "text": "There are so many clubs."
+  },
+  {
+    "id": "c73",
+    "startMs": 274220,
+    "endMs": 275620,
+    "text": "What club do you think I should join?"
+  },
+  {
+    "id": "c74",
+    "startMs": 276680,
+    "endMs": 278400,
+    "text": "Well, there's the music club,"
+  },
+  {
+    "id": "c75",
+    "startMs": 279180,
+    "endMs": 281440,
+    "text": "the sports club and the art club."
+  },
+  {
+    "id": "c76",
+    "startMs": 282400,
+    "endMs": 284220,
+    "text": "Which one are you most interested in?"
+  },
+  {
+    "id": "c77",
+    "startMs": 285000,
+    "endMs": 285300,
+    "text": "Well,"
+  },
+  {
+    "id": "c78",
+    "startMs": 285880,
+    "endMs": 288460,
+    "text": "I like sports and I play sports a lot,"
+  },
+  {
+    "id": "c79",
+    "startMs": 289200,
+    "endMs": 290880,
+    "text": "but I don't know much about music."
+  },
+  {
+    "id": "c80",
+    "startMs": 291880,
+    "endMs": 293120,
+    "text": "What about the art club?"
+  },
+  {
+    "id": "c81",
+    "startMs": 294080,
+    "endMs": 295120,
+    "text": "I know it's really fun."
+  },
+  {
+    "id": "c82",
+    "startMs": 295960,
+    "endMs": 298380,
+    "text": "We can draw and paint our own pictures there."
+  },
+  {
+    "id": "c83",
+    "startMs": 299040,
+    "endMs": 300580,
+    "text": "It's drawing or painting difficult."
+  },
+  {
+    "id": "c84",
+    "startMs": 301520,
+    "endMs": 301980,
+    "text": "Not really."
+  },
+  {
+    "id": "c85",
+    "startMs": 302900,
+    "endMs": 304300,
+    "text": "Ms. Wong is a great teacher."
+  },
+  {
+    "id": "c86",
+    "startMs": 305400,
+    "endMs": 306560,
+    "text": "She can teach us a lot."
+  },
+  {
+    "id": "c87",
+    "startMs": 307640,
+    "endMs": 310380,
+    "text": "And it's a good way to learn about culture through art."
+  },
+  {
+    "id": "c88",
+    "startMs": 311260,
+    "endMs": 311680,
+    "text": "For example,"
+  },
+  {
+    "id": "c89",
+    "startMs": 312620,
+    "endMs": 313860,
+    "text": "Chinese ink painting"
+  },
+  {
+    "id": "c90",
+    "startMs": 313860,
+    "endMs": 314980,
+    "text": "has a long history."
+  },
+  {
+    "id": "c91",
+    "startMs": 316020,
+    "endMs": 317080,
+    "text": "That sounds interesting."
+  },
+  {
+    "id": "c92",
+    "startMs": 318160,
+    "endMs": 319480,
+    "text": "I like learning new things."
+  },
+  {
+    "id": "c93",
+    "startMs": 320280,
+    "endMs": 322100,
+    "text": "And I can be creative with painting."
+  },
+  {
+    "id": "c94",
+    "startMs": 322880,
+    "endMs": 323040,
+    "text": "Exactly."
+  },
+  {
+    "id": "c95",
+    "startMs": 324300,
+    "endMs": 325940,
+    "text": "We can learn something special together."
+  },
+  {
+    "id": "c96",
+    "startMs": 326920,
+    "endMs": 328580,
+    "text": "Let's give the art club a try."
+  },
+  {
+    "id": "c97",
+    "startMs": 329340,
+    "endMs": 329380,
+    "text": "Okay,"
+  },
+  {
+    "id": "c98",
+    "startMs": 330020,
+    "endMs": 330340,
+    "text": "I'm in."
+  },
+  {
+    "id": "c99",
+    "startMs": 331160,
+    "endMs": 332660,
+    "text": "Let's join the art club together."
+  },
+  {
+    "id": "c100",
+    "startMs": 334440,
+    "endMs": 334620,
+    "text": "Five,"
+  },
+  {
+    "id": "c101",
+    "startMs": 335200,
+    "endMs": 335940,
+    "text": "listen and write."
+  },
+  {
+    "id": "c102",
+    "startMs": 336800,
+    "endMs": 338860,
+    "text": "James, Tintian Tanjala Art Club,"
+  },
+  {
+    "id": "c103",
+    "startMs": 339400,
+    "endMs": 342100,
+    "text": "Kaya Oni-ji, Tiro La Fashion Leshu, Tino Yin,"
+  },
+  {
+    "id": "c104",
+    "startMs": 342660,
+    "endMs": 344740,
+    "text": "Kyu Rochi Shada, Dansu, Hwatsu Zu."
+  },
+  {
+    "id": "c105",
+    "startMs": 346120,
+    "endMs": 347930,
+    "text": "Thursday, September 25th."
+  },
+  {
+    "id": "c106",
+    "startMs": 348620,
+    "endMs": 348920,
+    "text": "Sunny,"
+  },
+  {
+    "id": "c107",
+    "startMs": 350160,
+    "endMs": 352120,
+    "text": "today at the Art Club, Miss Wong said,"
+  },
+  {
+    "id": "c108",
+    "startMs": 353100,
+    "endMs": 355080,
+    "text": "Today you can paint a picture by yourself."
+  },
+  {
+    "id": "c109",
+    "startMs": 355900,
+    "endMs": 356320,
+    "text": "Be creative."
+  },
+  {
+    "id": "c110",
+    "startMs": 357360,
+    "endMs": 359140,
+    "text": "I didn't know what to paint at first."
+  },
+  {
+    "id": "c111",
+    "startMs": 360040,
+    "endMs": 362040,
+    "text": "Xiao Zhang suggested painting bamboo,"
+  },
+  {
+    "id": "c112",
+    "startMs": 363040,
+    "endMs": 364940,
+    "text": "but it was hard to draw the leaves."
+  },
+  {
+    "id": "c113",
+    "startMs": 365960,
+    "endMs": 368470,
+    "text": "Xiao Zhang told me not to give up and"
+  },
+  {
+    "id": "c114",
+    "startMs": 368560,
+    "endMs": 370360,
+    "text": "showed me how to draw a bamboo leaf."
+  },
+  {
+    "id": "c115",
+    "startMs": 371240,
+    "endMs": 371860,
+    "text": "With her help,"
+  },
+  {
+    "id": "c116",
+    "startMs": 372180,
+    "endMs": 374200,
+    "text": "I finished a nice painting at last."
+  },
+  {
+    "id": "c117",
+    "startMs": 375100,
+    "endMs": 377220,
+    "text": "I felt happy and learned that asking"
+  },
+  {
+    "id": "c118",
+    "startMs": 377480,
+    "endMs": 379940,
+    "text": "for help can work out the problem easier."
+  },
+  {
+    "id": "c119",
+    "startMs": 383180,
+    "endMs": 385880,
+    "text": "Thursday September 25th."
+  },
+  {
+    "id": "c120",
+    "startMs": 385880,
+    "endMs": 386000,
+    "text": "Sunny,"
+  },
+  {
+    "id": "c121",
+    "startMs": 386920,
+    "endMs": 389140,
+    "text": "today at the Art Club, Ms Wong said,"
+  },
+  {
+    "id": "c122",
+    "startMs": 390040,
+    "endMs": 392080,
+    "text": "Today you can paint a picture by yourself."
+  },
+  {
+    "id": "c123",
+    "startMs": 392940,
+    "endMs": 393320,
+    "text": "Be creative."
+  },
+  {
+    "id": "c124",
+    "startMs": 394400,
+    "endMs": 396120,
+    "text": "I didn't know what to paint at first."
+  },
+  {
+    "id": "c125",
+    "startMs": 397120,
+    "endMs": 399080,
+    "text": "Xiao Zhang suggested painting bamboo."
+  },
+  {
+    "id": "c126",
+    "startMs": 400060,
+    "endMs": 401940,
+    "text": "But it was hard to draw the leaves."
+  },
+  {
+    "id": "c127",
+    "startMs": 403080,
+    "endMs": 404840,
+    "text": "Xiao Zhan told me not to give up"
+  },
+  {
+    "id": "c128",
+    "startMs": 405460,
+    "endMs": 407360,
+    "text": "and showed me how to draw a bamboo leaf."
+  },
+  {
+    "id": "c129",
+    "startMs": 408320,
+    "endMs": 411260,
+    "text": "With her help I finished a nice painting at last."
+  },
+  {
+    "id": "c130",
+    "startMs": 412140,
+    "endMs": 414640,
+    "text": "I felt happy and learned that asking for"
+  },
+  {
+    "id": "c131",
+    "startMs": 414640,
+    "endMs": 416940,
+    "text": "help can work out the problem easier."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "startMs": 17840,
+    "endMs": 20380,
+    "text": "How can I help you?"
+  },
+  {
+    "id": "2",
+    "startMs": 22040,
+    "endMs": 26420,
+    "text": "Doctor, I can’t see clearly these days."
+  },
+  {
+    "id": "3",
+    "startMs": 26420,
+    "endMs": 27920,
+    "text": "Let me check your eyes."
+  },
+  {
+    "id": "4",
+    "startMs": 28440,
+    "endMs": 33460,
+    "text": "Do you watch TV or play computer games a lot?"
+  },
+  {
+    "id": "5",
+    "startMs": 34160,
+    "endMs": 35620,
+    "text": "Yes, I do."
+  },
+  {
+    "id": "6",
+    "startMs": 36420,
+    "endMs": 40540,
+    "text": "Well, I’m afraid you use your eyes too much."
+  },
+  {
+    "id": "7",
+    "startMs": 42560,
+    "endMs": 43760,
+    "text": "What should I do then?"
+  },
+  {
+    "id": "8",
+    "startMs": 44560,
+    "endMs": 47480,
+    "text": "Can you give me some medicine for my eyes, please?"
+  },
+  {
+    "id": "9",
+    "startMs": 51140,
+    "endMs": 57760,
+    "text": "There is no need for medicine, young man."
+  },
+  {
+    "id": "10",
+    "startMs": 57900,
+    "endMs": 62140,
+    "text": "You need to watch less TV and play fewer computer games."
+  },
+  {
+    "id": "11",
+    "startMs": 63760,
+    "endMs": 67480,
+    "text": "Go out and do your favourite outdoor activities more."
+  },
+  {
+    "id": "12",
+    "startMs": 68680,
+    "endMs": 71600,
+    "text": "For example, you can go cycling or play football more."
+  },
+  {
+    "id": "13",
+    "startMs": 72800,
+    "endMs": 74660,
+    "text": "They are good for your eyes."
+  },
+  {
+    "id": "14",
+    "startMs": 75620,
+    "endMs": 79300,
+    "text": "And don’t forget to do eye exercises twice a day."
+  },
+  {
+    "id": "15",
+    "startMs": 81600,
+    "endMs": 83180,
+    "text": "Thank you, doctor."
+  },
+  {
+    "id": "16",
+    "startMs": 83200,
+    "endMs": 85400,
+    "text": "I will take good care of my eyes."
+  }
+]

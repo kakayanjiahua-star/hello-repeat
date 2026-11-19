@@ -1,0 +1,10 @@
+{
+  "id": "u4-fun-time",
+  "title": "Unit 4 Fun time",
+  "revision": "2",
+  "durationMs": 108513,
+  "audioUrl": "./lessons/u4-fun-time/1/audio.mp3",
+  "cuesUrl": "./lessons/u4-fun-time/1/cues.json",
+  "group": "五年级上册",
+  "description": "机器识别字幕（36 句，未人工校对，个别句可能不准）"
+}

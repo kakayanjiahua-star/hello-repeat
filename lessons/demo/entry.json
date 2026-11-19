@@ -1,0 +1,8 @@
+{
+  "id": "demo",
+  "title": "Garden English",
+  "revision": "1",
+  "durationMs": 14138,
+  "audioUrl": "./lessons/demo/1/audio.wav",
+  "cuesUrl": "./lessons/demo/1/cues.json"
+}

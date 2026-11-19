@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>复读机 · 播客试听</title>
+<style>
+  body{font-family:-apple-system,"PingFang SC",sans-serif;background:#e9e7dc;color:#2b2b28;margin:0;padding:20px 16px 56px}
+  h1{font-size:20px;margin:0 0 4px}
+  p.lead{color:#6f6f68;font-size:13px;margin:0 0 18px;line-height:1.6}
+  h2.sec{font-size:13px;letter-spacing:1px;color:#8b8b82;margin:26px 0 10px;font-weight:600}
+  section{background:#f6f4ec;border:1px solid #d8d5c8;border-radius:12px;padding:14px;margin-bottom:12px}
+  h3{font-size:15px;margin:0 0 6px}
+  p{font-size:13px;color:#5c5c55;margin:0 0 10px;line-height:1.5}
+  small{color:#8b8b82;word-break:break-all}
+  audio{width:100%;margin-top:4px}
+  .note{font-size:12px;color:#8b8b82;margin-top:6px}
+</style>
+</head>
+<body>
+<h1>U5 · 主播 × 嘉宾 · 播客试听</h1>
+<p class="lead">先听整集（约 1 分 20 秒），再挑声线。手机上点播放器里的 ▶ 就行。</p>
+
+<h2 class="sec">完整正片（同一份稿，两对声音）</h2>
+<section>
+  <h3>A 版 · Aria 女主播 + Andrew 男嘉宾</h3>
+  <p>1:37 · 20 句 · 218 词 · 135 wpm · 美音</p>
+  <audio controls preload="metadata" src="u5-interview-a.mp3"></audio>
+  <div class="note"></div>
+</section>
+<section>
+  <h3>C 版 · Andrew 男主播 + Emma 女嘉宾</h3>
+  <p>1:33 · 20 句 · 141 wpm · 美音，男女角色对调</p>
+  <audio controls preload="metadata" src="u5-interview-c.mp3"></audio>
+  <div class="note"></div>
+</section>
+
+<h2 class="sec">五对声线（各 4 句，16–20 秒）</h2>
+<section><h3>A 版｜Aria 女主播 · Andrew 男嘉宾</h3><p>美音，温暖 + 沉稳，最像正经播客（推荐）</p><audio controls preload="none" src="pair1.mp3"></audio></section>
+<section><h3>B 版｜Jenny 女主播 · Guy 男嘉宾</h3><p>美音，亲和 + 明快，轻松一些</p><audio controls preload="none" src="pair2.mp3"></audio></section>
+<section><h3>C 版｜Andrew 男主播 · Emma 女嘉宾</h3><p>美音，男声当主持更常见</p><audio controls preload="none" src="pair3.mp3"></audio></section>
+<section><h3>D 版｜Ryan 男主播 · Sonia 女嘉宾</h3><p>英音，朗读腔，故事感强</p><audio controls preload="none" src="pair4.mp3"></audio></section>
+<section><h3>E 版｜Brian 男主播 · Ava 女嘉宾</h3><p>美音，低沉男声 + 清亮女声</p><audio controls preload="none" src="pair5.mp3"></audio></section>
+
+<script>
+// 兜底：万一浏览器对分段播放不买账，就整段取回来用 blob 播（和复读机主程序同一条路）
+document.querySelectorAll('audio').forEach(function (a) {
+  var note = a.parentElement.querySelector('.note');
+  var done = false;
+  function fallback() {
+    if (done) return; done = true;
+    if (note) note.textContent = '正在换一种方式加载…';
+    fetch(a.getAttribute('src')).then(function (r) { return r.blob(); }).then(function (b) {
+      a.src = URL.createObjectURL(b); a.load();
+      if (note) note.textContent = '';
+    }).catch(function () { if (note) note.textContent = '音频没取到，请刷新页面再试'; });
+  }
+  a.addEventListener('error', fallback);
+  a.addEventListener('stalled', function () { setTimeout(function () { if (a.readyState === 0) fallback(); }, 4000); });
+  a.addEventListener('loadedmetadata', function () {
+    if (note) note.textContent = '时长 ' + Math.round(a.duration) + ' 秒 · 已就绪';
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,368 @@
+[
+  {
+    "id": "c1",
+    "startMs": 2360,
+    "endMs": 7220,
+    "text": "Assessment 5 for units 9-10, part 1 speaking."
+  },
+  {
+    "id": "c2",
+    "startMs": 7920,
+    "endMs": 8520,
+    "text": "Call you both in."
+  },
+  {
+    "id": "c3",
+    "startMs": 9040,
+    "endMs": 10020,
+    "text": "1, read aloud."
+  },
+  {
+    "id": "c4",
+    "startMs": 11280,
+    "endMs": 13020,
+    "text": "Click, click the mouse with joy."
+  },
+  {
+    "id": "c5",
+    "startMs": 14400,
+    "endMs": 14680,
+    "text": "Safe power."
+  },
+  {
+    "id": "c6",
+    "startMs": 15760,
+    "endMs": 16160,
+    "text": "Good boy."
+  },
+  {
+    "id": "c7",
+    "startMs": 17420,
+    "endMs": 18760,
+    "text": "Quick check your work on the screen."
+  },
+  {
+    "id": "c8",
+    "startMs": 19880,
+    "endMs": 20380,
+    "text": "Safe paper."
+  },
+  {
+    "id": "c9",
+    "startMs": 21140,
+    "endMs": 21460,
+    "text": "It's green."
+  },
+  {
+    "id": "c10",
+    "startMs": 22980,
+    "endMs": 24020,
+    "text": "Enjoy your computer toy."
+  },
+  {
+    "id": "c11",
+    "startMs": 25020,
+    "endMs": 25660,
+    "text": "Helping the Earth."
+  },
+  {
+    "id": "c12",
+    "startMs": 26300,
+    "endMs": 26860,
+    "text": "Girl and boy."
+  },
+  {
+    "id": "c13",
+    "startMs": 29000,
+    "endMs": 29100,
+    "text": "Click,"
+  },
+  {
+    "id": "c14",
+    "startMs": 30220,
+    "endMs": 31280,
+    "text": "click the mouse with joy."
+  },
+  {
+    "id": "c15",
+    "startMs": 32660,
+    "endMs": 32940,
+    "text": "Safe power."
+  },
+  {
+    "id": "c16",
+    "startMs": 34000,
+    "endMs": 34400,
+    "text": "Good boy."
+  },
+  {
+    "id": "c17",
+    "startMs": 35580,
+    "endMs": 37020,
+    "text": "Quick check your work on the screen."
+  },
+  {
+    "id": "c18",
+    "startMs": 38060,
+    "endMs": 38660,
+    "text": "Safe paper."
+  },
+  {
+    "id": "c19",
+    "startMs": 39380,
+    "endMs": 39720,
+    "text": "It's green."
+  },
+  {
+    "id": "c20",
+    "startMs": 41240,
+    "endMs": 42260,
+    "text": "Enjoy your computer toy."
+  },
+  {
+    "id": "c21",
+    "startMs": 43280,
+    "endMs": 43920,
+    "text": "Helping the Earth."
+  },
+  {
+    "id": "c22",
+    "startMs": 44540,
+    "endMs": 45120,
+    "text": "Girl and boy."
+  },
+  {
+    "id": "c23",
+    "startMs": 47360,
+    "endMs": 47440,
+    "text": "Two."
+  },
+  {
+    "id": "c24",
+    "startMs": 48260,
+    "endMs": 48780,
+    "text": "Got a problem?"
+  },
+  {
+    "id": "c25",
+    "startMs": 49640,
+    "endMs": 49980,
+    "text": "Ask Simon."
+  },
+  {
+    "id": "c26",
+    "startMs": 51840,
+    "endMs": 53320,
+    "text": "My desktop is messy."
+  },
+  {
+    "id": "c27",
+    "startMs": 54180,
+    "endMs": 55020,
+    "text": "What should I do?"
+  },
+  {
+    "id": "c28",
+    "startMs": 56080,
+    "endMs": 57440,
+    "text": "My computer runs slowly."
+  },
+  {
+    "id": "c29",
+    "startMs": 58100,
+    "endMs": 58740,
+    "text": "What can I do?"
+  },
+  {
+    "id": "c30",
+    "startMs": 59780,
+    "endMs": 61620,
+    "text": "What is a safe power-on password?"
+  },
+  {
+    "id": "c31",
+    "startMs": 62940,
+    "endMs": 65580,
+    "text": "What can I do if the computer screen goes black?"
+  },
+  {
+    "id": "c32",
+    "startMs": 67830,
+    "endMs": 69900,
+    "text": "My desktop is messy."
+  },
+  {
+    "id": "c33",
+    "startMs": 70740,
+    "endMs": 71600,
+    "text": "What should I do?"
+  },
+  {
+    "id": "c34",
+    "startMs": 72640,
+    "endMs": 73980,
+    "text": "My computer runs slowly."
+  },
+  {
+    "id": "c35",
+    "startMs": 74680,
+    "endMs": 75300,
+    "text": "What can I do?"
+  },
+  {
+    "id": "c36",
+    "startMs": 76340,
+    "endMs": 78300,
+    "text": "What is a safe power-on password?"
+  },
+  {
+    "id": "c37",
+    "startMs": 79520,
+    "endMs": 82180,
+    "text": "What can I do if the computer screen goes black?"
+  },
+  {
+    "id": "c38",
+    "startMs": 83820,
+    "endMs": 85500,
+    "text": "3. Read,"
+  },
+  {
+    "id": "c39",
+    "startMs": 86040,
+    "endMs": 87100,
+    "text": "think and say"
+  },
+  {
+    "id": "c40",
+    "startMs": 88780,
+    "endMs": 90540,
+    "text": "I am a little eco-hero."
+  },
+  {
+    "id": "c41",
+    "startMs": 91880,
+    "endMs": 93780,
+    "text": "We love and protect the earth."
+  },
+  {
+    "id": "c42",
+    "startMs": 94660,
+    "endMs": 95000,
+    "text": "Reduce,"
+  },
+  {
+    "id": "c43",
+    "startMs": 95640,
+    "endMs": 95860,
+    "text": "reuse,"
+  },
+  {
+    "id": "c44",
+    "startMs": 96920,
+    "endMs": 97320,
+    "text": "recycle."
+  },
+  {
+    "id": "c45",
+    "startMs": 97920,
+    "endMs": 98580,
+    "text": "The 3 are."
+  },
+  {
+    "id": "c46",
+    "startMs": 99780,
+    "endMs": 100220,
+    "text": "Save energy."
+  },
+  {
+    "id": "c47",
+    "startMs": 101620,
+    "endMs": 102460,
+    "text": "Don't waste paper."
+  },
+  {
+    "id": "c48",
+    "startMs": 103560,
+    "endMs": 104480,
+    "text": "No plastic bags."
+  },
+  {
+    "id": "c49",
+    "startMs": 105680,
+    "endMs": 106120,
+    "text": "Pick up litter."
+  },
+  {
+    "id": "c50",
+    "startMs": 107360,
+    "endMs": 108180,
+    "text": "Walk or bike."
+  },
+  {
+    "id": "c51",
+    "startMs": 111060,
+    "endMs": 112860,
+    "text": "I am a little eco-hero."
+  },
+  {
+    "id": "c52",
+    "startMs": 114220,
+    "endMs": 116080,
+    "text": "We love and protect the Earth."
+  },
+  {
+    "id": "c53",
+    "startMs": 117160,
+    "endMs": 117340,
+    "text": "Reduce,"
+  },
+  {
+    "id": "c54",
+    "startMs": 117960,
+    "endMs": 118180,
+    "text": "reuse,"
+  },
+  {
+    "id": "c55",
+    "startMs": 118840,
+    "endMs": 119200,
+    "text": "recycle."
+  },
+  {
+    "id": "c56",
+    "startMs": 120220,
+    "endMs": 120880,
+    "text": "The three are."
+  },
+  {
+    "id": "c57",
+    "startMs": 122060,
+    "endMs": 122540,
+    "text": "Save energy."
+  },
+  {
+    "id": "c58",
+    "startMs": 123940,
+    "endMs": 124680,
+    "text": "Don't waste paper."
+  },
+  {
+    "id": "c59",
+    "startMs": 125860,
+    "endMs": 126780,
+    "text": "No plastic bags."
+  },
+  {
+    "id": "c60",
+    "startMs": 128000,
+    "endMs": 128420,
+    "text": "Pick up litter."
+  },
+  {
+    "id": "c61",
+    "startMs": 129700,
+    "endMs": 130460,
+    "text": "Walk or bike."
+  }
+]

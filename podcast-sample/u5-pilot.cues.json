@@ -1,0 +1,188 @@
+[
+  {
+    "id": "c1",
+    "startMs": 0,
+    "endMs": 4656,
+    "text": "Good morning, Mr. Chen. Come in, please."
+  },
+  {
+    "id": "c2",
+    "startMs": 5106,
+    "endMs": 8658,
+    "text": "Good morning, Dr. Lee. This is my son, Minmin."
+  },
+  {
+    "id": "c3",
+    "startMs": 9108,
+    "endMs": 11244,
+    "text": "What's the matter with him?"
+  },
+  {
+    "id": "c4",
+    "startMs": 11694,
+    "endMs": 13974,
+    "text": "He has a fever and a dry cough."
+  },
+  {
+    "id": "c5",
+    "startMs": 14424,
+    "endMs": 16464,
+    "text": "When did it start?"
+  },
+  {
+    "id": "c6",
+    "startMs": 16914,
+    "endMs": 19578,
+    "text": "Since this morning. He was hot at breakfast."
+  },
+  {
+    "id": "c7",
+    "startMs": 20028,
+    "endMs": 22260,
+    "text": "Do you know his temperature?"
+  },
+  {
+    "id": "c8",
+    "startMs": 22710,
+    "endMs": 24966,
+    "text": "It was thirty-eight point five this morning."
+  },
+  {
+    "id": "c9",
+    "startMs": 25416,
+    "endMs": 29112,
+    "text": "OK. Let me take it again."
+  },
+  {
+    "id": "c10",
+    "startMs": 29562,
+    "endMs": 34218,
+    "text": "Thirty-eight point six. Yes, a little high."
+  },
+  {
+    "id": "c11",
+    "startMs": 34668,
+    "endMs": 38124,
+    "text": "Take his temperature every four hours at home."
+  },
+  {
+    "id": "c12",
+    "startMs": 38574,
+    "endMs": 40422,
+    "text": "Every four hours, got it."
+  },
+  {
+    "id": "c13",
+    "startMs": 40872,
+    "endMs": 43248,
+    "text": "His throat is a little red."
+  },
+  {
+    "id": "c14",
+    "startMs": 43698,
+    "endMs": 47778,
+    "text": "It's not too bad. Here's the medicine."
+  },
+  {
+    "id": "c15",
+    "startMs": 48228,
+    "endMs": 51852,
+    "text": "Take the medicine twice a day, after meals."
+  },
+  {
+    "id": "c16",
+    "startMs": 52302,
+    "endMs": 54294,
+    "text": "Twice a day, after meals."
+  },
+  {
+    "id": "c17",
+    "startMs": 54744,
+    "endMs": 57048,
+    "text": "Drink warm honey water."
+  },
+  {
+    "id": "c18",
+    "startMs": 57498,
+    "endMs": 60450,
+    "text": "You should have a good rest, Minmin."
+  },
+  {
+    "id": "c19",
+    "startMs": 60900,
+    "endMs": 63444,
+    "text": "No running for two days."
+  },
+  {
+    "id": "c20",
+    "startMs": 63894,
+    "endMs": 66102,
+    "text": "He loves running. That will be hard."
+  },
+  {
+    "id": "c21",
+    "startMs": 66552,
+    "endMs": 67968,
+    "text": "Mm-hm?"
+  },
+  {
+    "id": "c22",
+    "startMs": 68418,
+    "endMs": 70386,
+    "text": "A fever and a dry cough."
+  },
+  {
+    "id": "c23",
+    "startMs": 70836,
+    "endMs": 72780,
+    "text": "And twice a day, after meals?"
+  },
+  {
+    "id": "c24",
+    "startMs": 73230,
+    "endMs": 76950,
+    "text": "Right. And warm honey water."
+  },
+  {
+    "id": "c25",
+    "startMs": 77400,
+    "endMs": 79752,
+    "text": "You should have a good rest, and no running."
+  },
+  {
+    "id": "c26",
+    "startMs": 80202,
+    "endMs": 83562,
+    "text": "Good. You remember well."
+  },
+  {
+    "id": "c27",
+    "startMs": 84012,
+    "endMs": 85548,
+    "text": "So we'll see you on Friday."
+  },
+  {
+    "id": "c28",
+    "startMs": 85998,
+    "endMs": 88830,
+    "text": "Yes, come back on Friday."
+  },
+  {
+    "id": "c29",
+    "startMs": 89280,
+    "endMs": 93312,
+    "text": "If the fever rises, go to the hospital immediately."
+  },
+  {
+    "id": "c30",
+    "startMs": 93762,
+    "endMs": 95946,
+    "text": "Straight to the hospital. OK."
+  },
+  {
+    "id": "c31",
+    "startMs": 96396,
+    "endMs": 100044,
+    "text": "And keep taking his temperature every four hours."
+  }
+]

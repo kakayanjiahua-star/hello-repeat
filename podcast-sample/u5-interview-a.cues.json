@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c1",
+    "startMs": 0,
+    "endMs": 4752,
+    "text": "Your child has a fever. When should you worry?"
+  },
+  {
+    "id": "c2",
+    "startMs": 5252,
+    "endMs": 9092,
+    "text": "Most parents get this wrong — what is it?"
+  },
+  {
+    "id": "c3",
+    "startMs": 9592,
+    "endMs": 14248,
+    "text": "Most parents start with the cough syrup. That is the wrong first step."
+  },
+  {
+    "id": "c4",
+    "startMs": 14698,
+    "endMs": 19354,
+    "text": "The first step is not medicine. It is the thermometer, and a pen."
+  },
+  {
+    "id": "c5",
+    "startMs": 19804,
+    "endMs": 23812,
+    "text": "Write down the number and the time. You will need both tonight."
+  },
+  {
+    "id": "c6",
+    "startMs": 24312,
+    "endMs": 27288,
+    "text": "How often, and how high?"
+  },
+  {
+    "id": "c7",
+    "startMs": 27788,
+    "endMs": 32708,
+    "text": "A parent called me and said, \"He has a fever and a dry cough.\""
+  },
+  {
+    "id": "c8",
+    "startMs": 33158,
+    "endMs": 36974,
+    "text": "That morning it was thirty-eight point five. A little high."
+  },
+  {
+    "id": "c9",
+    "startMs": 37424,
+    "endMs": 41288,
+    "text": "Check it every four hours, and write down each number."
+  },
+  {
+    "id": "c10",
+    "startMs": 41788,
+    "endMs": 45268,
+    "text": "So what are the three things to do tonight?"
+  },
+  {
+    "id": "c11",
+    "startMs": 45968,
+    "endMs": 50312,
+    "text": "One: give the medicine twice a day, after every meal."
+  },
+  {
+    "id": "c12",
+    "startMs": 51012,
+    "endMs": 56292,
+    "text": "Two: warm honey water, small cups all day. It helps a dry cough."
+  },
+  {
+    "id": "c13",
+    "startMs": 56992,
+    "endMs": 62320,
+    "text": "Three: he should have a good rest. No running for two days, no PE."
+  },
+  {
+    "id": "c14",
+    "startMs": 63020,
+    "endMs": 67316,
+    "text": "Open the window for ten minutes after dinner. Keep the room warm."
+  },
+  {
+    "id": "c15",
+    "startMs": 68016,
+    "endMs": 71736,
+    "text": "Most of it you already have at home. That is the good news."
+  },
+  {
+    "id": "c16",
+    "startMs": 72186,
+    "endMs": 76170,
+    "text": "If the fever goes above thirty-nine, call me the same day."
+  },
+  {
+    "id": "c17",
+    "startMs": 76620,
+    "endMs": 80604,
+    "text": "And if it rises at night, go to the hospital immediately."
+  },
+  {
+    "id": "c18",
+    "startMs": 81104,
+    "endMs": 86672,
+    "text": "Twice a day, every four hours, and thirty-nine means the hospital."
+  },
+  {
+    "id": "c19",
+    "startMs": 87172,
+    "endMs": 91348,
+    "text": "Right. And a good rest. That is the part parents forget."
+  },
+  {
+    "id": "c20",
+    "startMs": 91848,
+    "endMs": 96840,
+    "text": "Thank you, Dr. Lee. See you next time."
+  }
+]

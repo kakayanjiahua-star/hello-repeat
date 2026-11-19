@@ -1,0 +1,1 @@
+{"name":"HELLO REPEAT","short_name":"Repeat","description":"家里的英语逐句复读机","start_url":"./","display":"standalone","background_color":"#e5e3da","theme_color":"#c4c2b8","lang":"en","scope":"./","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}

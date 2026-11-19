@@ -1,0 +1,146 @@
+[
+  {
+    "id": "c1",
+    "startMs": 2520,
+    "endMs": 4120,
+    "text": "A,"
+  },
+  {
+    "id": "c2",
+    "startMs": 5560,
+    "endMs": 7020,
+    "text": "listen and write."
+  },
+  {
+    "id": "c3",
+    "startMs": 10440,
+    "endMs": 11280,
+    "text": "In the hospital."
+  },
+  {
+    "id": "c4",
+    "startMs": 12320,
+    "endMs": 12820,
+    "text": "Ouch!"
+  },
+  {
+    "id": "c5",
+    "startMs": 13740,
+    "endMs": 15420,
+    "text": "My arm hurts so much."
+  },
+  {
+    "id": "c6",
+    "startMs": 16880,
+    "endMs": 18860,
+    "text": "Let me take a look at your arm."
+  },
+  {
+    "id": "c7",
+    "startMs": 20080,
+    "endMs": 21240,
+    "text": "Is it very bad?"
+  },
+  {
+    "id": "c8",
+    "startMs": 21940,
+    "endMs": 23040,
+    "text": "No."
+  },
+  {
+    "id": "c9",
+    "startMs": 24000,
+    "endMs": 25760,
+    "text": "It's not that bad at all."
+  },
+  {
+    "id": "c10",
+    "startMs": 26900,
+    "endMs": 29380,
+    "text": "I'll give you some medicine for the pain."
+  },
+  {
+    "id": "c11",
+    "startMs": 30740,
+    "endMs": 32960,
+    "text": "Remember to keep your arm dry"
+  },
+  {
+    "id": "c12",
+    "startMs": 33820,
+    "endMs": 36580,
+    "text": "and come back to see me next Tuesday."
+  },
+  {
+    "id": "c13",
+    "startMs": 38780,
+    "endMs": 39820,
+    "text": "Thank you very much."
+  },
+  {
+    "id": "c14",
+    "startMs": 41720,
+    "endMs": 42380,
+    "text": "Doctor,"
+  },
+  {
+    "id": "c15",
+    "startMs": 45100,
+    "endMs": 46340,
+    "text": "I don't feel very well."
+  },
+  {
+    "id": "c16",
+    "startMs": 46900,
+    "endMs": 48180,
+    "text": "I have a runny nose."
+  },
+  {
+    "id": "c17",
+    "startMs": 49760,
+    "endMs": 50660,
+    "text": "You have a fever."
+  },
+  {
+    "id": "c18",
+    "startMs": 51800,
+    "endMs": 52500,
+    "text": "It is a cold."
+  },
+  {
+    "id": "c19",
+    "startMs": 53620,
+    "endMs": 54820,
+    "text": "Can I go to school?"
+  },
+  {
+    "id": "c20",
+    "startMs": 55830,
+    "endMs": 58980,
+    "text": "No. You should stay in bed for three"
+  },
+  {
+    "id": "c21",
+    "startMs": 58980,
+    "endMs": 62380,
+    "text": "days and take medicine three times a day."
+  },
+  {
+    "id": "c22",
+    "startMs": 63230,
+    "endMs": 64180,
+    "text": "Okay,"
+  },
+  {
+    "id": "c23",
+    "startMs": 65120,
+    "endMs": 65880,
+    "text": "thank you doctor."
+  },
+  {
+    "id": "c24",
+    "startMs": 67660,
+    "endMs": 69340,
+    "text": "I hope you feel better soon."
+  }
+]

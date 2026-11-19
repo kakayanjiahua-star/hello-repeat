@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c1",
+    "startMs": 1180,
+    "endMs": 1860,
+    "text": "Rhyme time."
+  },
+  {
+    "id": "c2",
+    "startMs": 3340,
+    "endMs": 3720,
+    "text": "Nice doctors."
+  },
+  {
+    "id": "c3",
+    "startMs": 6160,
+    "endMs": 7160,
+    "text": "My arm hurts,"
+  },
+  {
+    "id": "c4",
+    "startMs": 8240,
+    "endMs": 13380,
+    "text": "so I go to see Dr. Tai. He is very nice and says,"
+  },
+  {
+    "id": "c5",
+    "startMs": 14560,
+    "endMs": 15460,
+    "text": "I know it hurts."
+  },
+  {
+    "id": "c6",
+    "startMs": 16520,
+    "endMs": 16740,
+    "text": "It's"
+  },
+  {
+    "id": "c7",
+    "startMs": 16860,
+    "endMs": 17660,
+    "text": "okay to cry."
+  },
+  {
+    "id": "c8",
+    "startMs": 18620,
+    "endMs": 19740,
+    "text": "Try not to touch it"
+  },
+  {
+    "id": "c9",
+    "startMs": 20440,
+    "endMs": 21420,
+    "text": "and keep it dry."
+  },
+  {
+    "id": "c10",
+    "startMs": 23960,
+    "endMs": 26320,
+    "text": "I cough and my nose is runny."
+  },
+  {
+    "id": "c11",
+    "startMs": 27240,
+    "endMs": 28860,
+    "text": "A nurse takes my temperature,"
+  },
+  {
+    "id": "c12",
+    "startMs": 29780,
+    "endMs": 31540,
+    "text": "then I go to see Dr. Lee."
+  },
+  {
+    "id": "c13",
+    "startMs": 32860,
+    "endMs": 34480,
+    "text": "She is very nice and says,"
+  },
+  {
+    "id": "c14",
+    "startMs": 35260,
+    "endMs": 36020,
+    "text": "you have a fever,"
+  },
+  {
+    "id": "c15",
+    "startMs": 36780,
+    "endMs": 37500,
+    "text": "takes a medicine,"
+  },
+  {
+    "id": "c16",
+    "startMs": 38660,
+    "endMs": 41200,
+    "text": "have a good rest and take it easy."
+  },
+  {
+    "id": "c17",
+    "startMs": 45520,
+    "endMs": 47120,
+    "text": "A,"
+  },
+  {
+    "id": "c18",
+    "startMs": 48560,
+    "endMs": 50020,
+    "text": "listen and write."
+  },
+  {
+    "id": "c19",
+    "startMs": 53440,
+    "endMs": 54280,
+    "text": "In the hospital."
+  },
+  {
+    "id": "c20",
+    "startMs": 55320,
+    "endMs": 55820,
+    "text": "Ouch!"
+  },
+  {
+    "id": "c21",
+    "startMs": 56740,
+    "endMs": 58420,
+    "text": "My arm hurts so much."
+  },
+  {
+    "id": "c22",
+    "startMs": 59880,
+    "endMs": 61860,
+    "text": "Let me take a look at your arm."
+  },
+  {
+    "id": "c23",
+    "startMs": 63080,
+    "endMs": 64240,
+    "text": "Is it very bad?"
+  },
+  {
+    "id": "c24",
+    "startMs": 64940,
+    "endMs": 66040,
+    "text": "No."
+  },
+  {
+    "id": "c25",
+    "startMs": 67000,
+    "endMs": 68760,
+    "text": "It's not that bad at all."
+  },
+  {
+    "id": "c26",
+    "startMs": 69900,
+    "endMs": 72380,
+    "text": "I'll give you some medicine for the pain."
+  },
+  {
+    "id": "c27",
+    "startMs": 73740,
+    "endMs": 75960,
+    "text": "Remember to keep your arm dry"
+  },
+  {
+    "id": "c28",
+    "startMs": 76820,
+    "endMs": 79580,
+    "text": "and come back to see me next Tuesday."
+  },
+  {
+    "id": "c29",
+    "startMs": 81780,
+    "endMs": 82820,
+    "text": "Thank you very much."
+  },
+  {
+    "id": "c30",
+    "startMs": 84720,
+    "endMs": 85380,
+    "text": "Doctor,"
+  },
+  {
+    "id": "c31",
+    "startMs": 88100,
+    "endMs": 89340,
+    "text": "I don't feel very well."
+  },
+  {
+    "id": "c32",
+    "startMs": 89900,
+    "endMs": 91180,
+    "text": "I have a runny nose."
+  },
+  {
+    "id": "c33",
+    "startMs": 92760,
+    "endMs": 93660,
+    "text": "You have a fever."
+  },
+  {
+    "id": "c34",
+    "startMs": 94800,
+    "endMs": 95500,
+    "text": "It is a cold."
+  },
+  {
+    "id": "c35",
+    "startMs": 96620,
+    "endMs": 97820,
+    "text": "Can I go to school?"
+  },
+  {
+    "id": "c36",
+    "startMs": 98830,
+    "endMs": 101980,
+    "text": "No. You should stay in bed for three"
+  },
+  {
+    "id": "c37",
+    "startMs": 101980,
+    "endMs": 105380,
+    "text": "days and take medicine three times a day."
+  },
+  {
+    "id": "c38",
+    "startMs": 106230,
+    "endMs": 107180,
+    "text": "Okay,"
+  },
+  {
+    "id": "c39",
+    "startMs": 108120,
+    "endMs": 108880,
+    "text": "thank you doctor."
+  },
+  {
+    "id": "c40",
+    "startMs": 110660,
+    "endMs": 112340,
+    "text": "I hope you feel better soon."
+  }
+]

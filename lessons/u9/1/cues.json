@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "startMs": 21360,
+    "endMs": 22980,
+    "text": "Dad, what is it?"
+  },
+  {
+    "id": "2",
+    "startMs": 24240,
+    "endMs": 29240,
+    "text": "It is ENIAC, the best-known early computer."
+  },
+  {
+    "id": "3",
+    "startMs": 30540,
+    "endMs": 31160,
+    "text": "A computer?!"
+  },
+  {
+    "id": "4",
+    "startMs": 31840,
+    "endMs": 34160,
+    "text": "But it has no mouse or keyboard?"
+  },
+  {
+    "id": "5",
+    "startMs": 35440,
+    "endMs": 39820,
+    "text": "The first computer did not have a mouse or keyboard."
+  },
+  {
+    "id": "6",
+    "startMs": 40520,
+    "endMs": 42800,
+    "text": "It was as big as a room."
+  },
+  {
+    "id": "8",
+    "startMs": 43900,
+    "endMs": 46860,
+    "text": "It was as heavy as four elephants."
+  },
+  {
+    "id": "9",
+    "startMs": 47820,
+    "endMs": 51160,
+    "text": "People used it to do difficult maths tasks."
+  },
+  {
+    "id": "10",
+    "startMs": 52840,
+    "endMs": 53320,
+    "text": "Cool!"
+  },
+  {
+    "id": "11",
+    "startMs": 54220,
+    "endMs": 56940,
+    "text": "But today computers are much smaller."
+  },
+  {
+    "id": "13",
+    "startMs": 60620,
+    "endMs": 62020,
+    "text": "The microchip."
+  },
+  {
+    "id": "14",
+    "startMs": 62920,
+    "endMs": 66520,
+    "text": "Microchips are very important to computers."
+  },
+  {
+    "id": "15",
+    "startMs": 67260,
+    "endMs": 72600,
+    "text": "With microchips, scientists can make very small computers."
+  },
+  {
+    "id": "19",
+    "startMs": 75220,
+    "endMs": 76200,
+    "text": "How amazing!"
+  },
+  {
+    "id": "20",
+    "startMs": 77200,
+    "endMs": 78260,
+    "text": "I love computers."
+  },
+  {
+    "id": "21",
+    "startMs": 79280,
+    "endMs": 82200,
+    "text": "We can do a lot of things with a computer now."
+  }
+]

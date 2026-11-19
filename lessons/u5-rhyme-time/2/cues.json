@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1",
+    "startMs": 1180,
+    "endMs": 1860,
+    "text": "Rhyme time."
+  },
+  {
+    "id": "c2",
+    "startMs": 3340,
+    "endMs": 3720,
+    "text": "Nice doctors."
+  },
+  {
+    "id": "c3",
+    "startMs": 6160,
+    "endMs": 7160,
+    "text": "My arm hurts,"
+  },
+  {
+    "id": "c4",
+    "startMs": 8240,
+    "endMs": 13380,
+    "text": "so I go to see Dr. Tai. He is very nice and says,"
+  },
+  {
+    "id": "c5",
+    "startMs": 14560,
+    "endMs": 15460,
+    "text": "I know it hurts."
+  },
+  {
+    "id": "c6",
+    "startMs": 16520,
+    "endMs": 16740,
+    "text": "It's"
+  },
+  {
+    "id": "c7",
+    "startMs": 16860,
+    "endMs": 17660,
+    "text": "okay to cry."
+  },
+  {
+    "id": "c8",
+    "startMs": 18620,
+    "endMs": 19740,
+    "text": "Try not to touch it"
+  },
+  {
+    "id": "c9",
+    "startMs": 20440,
+    "endMs": 21420,
+    "text": "and keep it dry."
+  },
+  {
+    "id": "c10",
+    "startMs": 23960,
+    "endMs": 26320,
+    "text": "I cough and my nose is runny."
+  },
+  {
+    "id": "c11",
+    "startMs": 27240,
+    "endMs": 28860,
+    "text": "A nurse takes my temperature,"
+  },
+  {
+    "id": "c12",
+    "startMs": 29780,
+    "endMs": 31540,
+    "text": "then I go to see Dr. Lee."
+  },
+  {
+    "id": "c13",
+    "startMs": 32860,
+    "endMs": 34480,
+    "text": "She is very nice and says,"
+  },
+  {
+    "id": "c14",
+    "startMs": 35260,
+    "endMs": 36020,
+    "text": "you have a fever,"
+  },
+  {
+    "id": "c15",
+    "startMs": 36780,
+    "endMs": 37500,
+    "text": "takes a medicine,"
+  },
+  {
+    "id": "c16",
+    "startMs": 38660,
+    "endMs": 41200,
+    "text": "have a good rest and take it easy."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "startMs": 1320,
+    "endMs": 3600,
+    "text": "Pages 62 and 63."
+  },
+  {
+    "id": "2",
+    "startMs": 4500,
+    "endMs": 5000,
+    "text": "Reading time"
+  },
+  {
+    "id": "3",
+    "startMs": 5880,
+    "endMs": 6720,
+    "text": "Great scientists"
+  },
+  {
+    "id": "4",
+    "startMs": 8560,
+    "endMs": 13420,
+    "text": "Yuan Longping was born in Beijing in 1930."
+  },
+  {
+    "id": "5",
+    "startMs": 14300,
+    "endMs": 23340,
+    "text": "In the 1960s, as the nation was short of food, Mr Yuan began to do research on hybrid rice."
+  },
+  {
+    "id": "6",
+    "startMs": 24560,
+    "endMs": 28340,
+    "text": "He was creative and hard-working."
+  },
+  {
+    "id": "7",
+    "startMs": 28340,
+    "endMs": 31840,
+    "text": "His hybrid rice has fed many people."
+  },
+  {
+    "id": "8",
+    "startMs": 33000,
+    "endMs": 37580,
+    "text": "Mr Yuan is known as the \"Father of Hybrid Rice\"."
+  },
+  {
+    "id": "9",
+    "startMs": 40180,
+    "endMs": 44180,
+    "text": "Thomas Edison was born in America in 1847."
+  },
+  {
+    "id": "10",
+    "startMs": 45440,
+    "endMs": 50760,
+    "text": "He was always interested in new things and he created over 1,000 inventions."
+  },
+  {
+    "id": "11",
+    "startMs": 52200,
+    "endMs": 56040,
+    "text": "Edison wanted to invent a new light bulb, but it was not easy."
+  },
+  {
+    "id": "12",
+    "startMs": 57220,
+    "endMs": 60780,
+    "text": "He never gave up and tried thousands of different ways."
+  },
+  {
+    "id": "13",
+    "startMs": 61980,
+    "endMs": 63140,
+    "text": "Finally, he made it!"
+  },
+  {
+    "id": "14",
+    "startMs": 64040,
+    "endMs": 68440,
+    "text": "His light bulb helps people see in the dark safely and easily."
+  },
+  {
+    "id": "15",
+    "startMs": 69700,
+    "endMs": 73900,
+    "text": "Now, we can have light all the time, just by turning on a switch."
+  }
+]

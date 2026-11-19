@@ -1,0 +1,632 @@
+[
+  {
+    "id": "c1",
+    "startMs": 100,
+    "endMs": 5000,
+    "text": "Unit 6. Exercise for listening."
+  },
+  {
+    "id": "c2",
+    "startMs": 5500,
+    "endMs": 6210,
+    "text": "Ting Li Liensei."
+  },
+  {
+    "id": "c3",
+    "startMs": 6860,
+    "endMs": 8320,
+    "text": "1. Listen and choose."
+  },
+  {
+    "id": "c4",
+    "startMs": 8920,
+    "endMs": 10600,
+    "text": "Mimiin yu dal yis yu kuan na."
+  },
+  {
+    "id": "c5",
+    "startMs": 11040,
+    "endMs": 11800,
+    "text": "Ta hui thamabana."
+  },
+  {
+    "id": "c6",
+    "startMs": 12400,
+    "endMs": 12880,
+    "text": "Ting wiin."
+  },
+  {
+    "id": "c7",
+    "startMs": 13200,
+    "endMs": 14540,
+    "text": "Chen chu ting dal dal dal dal dal dal nui."
+  },
+  {
+    "id": "c8",
+    "startMs": 16060,
+    "endMs": 19320,
+    "text": "1. Mimiin tried his best in swimming."
+  },
+  {
+    "id": "c9",
+    "startMs": 20680,
+    "endMs": 22260,
+    "text": "2. However,"
+  },
+  {
+    "id": "c10",
+    "startMs": 22780,
+    "endMs": 23740,
+    "text": "he didn't give up."
+  },
+  {
+    "id": "c11",
+    "startMs": 25090,
+    "endMs": 28220,
+    "text": "3. He practiced every day."
+  },
+  {
+    "id": "c12",
+    "startMs": 28540,
+    "endMs": 32860,
+    "text": "4. Now he swims much better than before."
+  },
+  {
+    "id": "c13",
+    "startMs": 34680,
+    "endMs": 38440,
+    "text": "5. He will join a swimming race next month."
+  },
+  {
+    "id": "c14",
+    "startMs": 39260,
+    "endMs": 41500,
+    "text": "He knows that where there is a will, there"
+  },
+  {
+    "id": "c15",
+    "startMs": 41500,
+    "endMs": 42100,
+    "text": "is a way."
+  },
+  {
+    "id": "c16",
+    "startMs": 43460,
+    "endMs": 46040,
+    "text": "2. Listen and match."
+  },
+  {
+    "id": "c17",
+    "startMs": 57340,
+    "endMs": 60500,
+    "text": "She used to be very nervous when speaking."
+  },
+  {
+    "id": "c18",
+    "startMs": 61680,
+    "endMs": 64480,
+    "text": "She often watched interesting storytelling videos."
+  },
+  {
+    "id": "c19",
+    "startMs": 65560,
+    "endMs": 69560,
+    "text": "Every evening she practiced her stories alone in her room."
+  },
+  {
+    "id": "c20",
+    "startMs": 70640,
+    "endMs": 73580,
+    "text": "She sometimes asked her teacher for helpful tips."
+  },
+  {
+    "id": "c21",
+    "startMs": 74740,
+    "endMs": 77760,
+    "text": "At weekends, she told stories to her family."
+  },
+  {
+    "id": "c22",
+    "startMs": 78720,
+    "endMs": 81380,
+    "text": "Her family filmed her and gave her many"
+  },
+  {
+    "id": "c23",
+    "startMs": 81380,
+    "endMs": 81860,
+    "text": "tips."
+  },
+  {
+    "id": "c24",
+    "startMs": 82980,
+    "endMs": 84540,
+    "text": "Now she isn't afraid anymore."
+  },
+  {
+    "id": "c25",
+    "startMs": 85660,
+    "endMs": 88960,
+    "text": "She tried her best and won a prize in a storytelling"
+  },
+  {
+    "id": "c26",
+    "startMs": 88960,
+    "endMs": 90620,
+    "text": "contest at school."
+  },
+  {
+    "id": "c27",
+    "startMs": 92920,
+    "endMs": 95300,
+    "text": "She used to be very nervous when speaking."
+  },
+  {
+    "id": "c28",
+    "startMs": 96420,
+    "endMs": 97580,
+    "text": "She often watched interesting"
+  },
+  {
+    "id": "c29",
+    "startMs": 98060,
+    "endMs": 99160,
+    "text": "storytelling videos."
+  },
+  {
+    "id": "c30",
+    "startMs": 100360,
+    "endMs": 104320,
+    "text": "Every evening she practiced her stories alone in her room."
+  },
+  {
+    "id": "c31",
+    "startMs": 105400,
+    "endMs": 108360,
+    "text": "She sometimes asked her teacher for helpful tips."
+  },
+  {
+    "id": "c32",
+    "startMs": 109440,
+    "endMs": 112500,
+    "text": "At weekends she told stories to her family."
+  },
+  {
+    "id": "c33",
+    "startMs": 113500,
+    "endMs": 116600,
+    "text": "Her family filmed her and gave her many tips."
+  },
+  {
+    "id": "c34",
+    "startMs": 117740,
+    "endMs": 119380,
+    "text": "Now she isn't afraid anymore."
+  },
+  {
+    "id": "c35",
+    "startMs": 120440,
+    "endMs": 122880,
+    "text": "She tried her best and won a prize"
+  },
+  {
+    "id": "c36",
+    "startMs": 122880,
+    "endMs": 125340,
+    "text": "in a storytelling contest at school."
+  },
+  {
+    "id": "c37",
+    "startMs": 126510,
+    "endMs": 129340,
+    "text": "3. Listen and complete"
+  },
+  {
+    "id": "c38",
+    "startMs": 129450,
+    "endMs": 132460,
+    "text": "Brown d'Arin shanting the kanchong chuan si,"
+  },
+  {
+    "id": "c39",
+    "startMs": 133040,
+    "endMs": 136020,
+    "text": "padotin li le shama, kin wing bou chuani"
+  },
+  {
+    "id": "c40",
+    "startMs": 136220,
+    "endMs": 136720,
+    "text": "sachu zu."
+  },
+  {
+    "id": "c41",
+    "startMs": 138740,
+    "endMs": 141260,
+    "text": "Little Brown could only move his left foot."
+  },
+  {
+    "id": "c42",
+    "startMs": 142040,
+    "endMs": 143180,
+    "text": "His mother never gave up."
+  },
+  {
+    "id": "c43",
+    "startMs": 143940,
+    "endMs": 144620,
+    "text": "He held a piece"
+  },
+  {
+    "id": "c44",
+    "startMs": 144620,
+    "endMs": 146860,
+    "text": "of chalk with his toes and wrote the"
+  },
+  {
+    "id": "c45",
+    "startMs": 146860,
+    "endMs": 149440,
+    "text": "letter A. That was his new beginning."
+  },
+  {
+    "id": "c46",
+    "startMs": 150380,
+    "endMs": 150900,
+    "text": "He tried his"
+  },
+  {
+    "id": "c47",
+    "startMs": 150920,
+    "endMs": 151120,
+    "text": "His best,"
+  },
+  {
+    "id": "c48",
+    "startMs": 151980,
+    "endMs": 154040,
+    "text": "Brown finally became a famous writer."
+  },
+  {
+    "id": "c49",
+    "startMs": 155910,
+    "endMs": 159160,
+    "text": "Little Brown could only move his left foot."
+  },
+  {
+    "id": "c50",
+    "startMs": 159940,
+    "endMs": 161080,
+    "text": "His mother never gave up."
+  },
+  {
+    "id": "c51",
+    "startMs": 161840,
+    "endMs": 165420,
+    "text": "He held a piece of chalk with his toes and wrote the letter A."
+  },
+  {
+    "id": "c52",
+    "startMs": 166140,
+    "endMs": 167400,
+    "text": "That was his new beginning."
+  },
+  {
+    "id": "c53",
+    "startMs": 168320,
+    "endMs": 169100,
+    "text": "He tried his best."
+  },
+  {
+    "id": "c54",
+    "startMs": 169720,
+    "endMs": 171940,
+    "text": "Brown finally became a famous writer."
+  },
+  {
+    "id": "c55",
+    "startMs": 174800,
+    "endMs": 176320,
+    "text": "4. Listen and choose."
+  },
+  {
+    "id": "c56",
+    "startMs": 177000,
+    "endMs": 206680,
+    "text": "你們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們們�"
+  },
+  {
+    "id": "c57",
+    "startMs": 206700,
+    "endMs": 209740,
+    "text": "read books and write stories to improve my storytelling,"
+  },
+  {
+    "id": "c58",
+    "startMs": 210820,
+    "endMs": 212740,
+    "text": "even when it is difficult I"
+  },
+  {
+    "id": "c59",
+    "startMs": 212920,
+    "endMs": 213620,
+    "text": "never give up."
+  },
+  {
+    "id": "c60",
+    "startMs": 214500,
+    "endMs": 216400,
+    "text": "Wouldn't be proud of me in grade 5?"
+  },
+  {
+    "id": "c61",
+    "startMs": 219280,
+    "endMs": 221800,
+    "text": "Shinshong wrote a letter to her future self."
+  },
+  {
+    "id": "c62",
+    "startMs": 222940,
+    "endMs": 223630,
+    "text": "In grade 5,"
+  },
+  {
+    "id": "c63",
+    "startMs": 224360,
+    "endMs": 226580,
+    "text": "I eat vegetables and fruit every"
+  },
+  {
+    "id": "c64",
+    "startMs": 226680,
+    "endMs": 227060,
+    "text": "day."
+  },
+  {
+    "id": "c65",
+    "startMs": 228040,
+    "endMs": 230000,
+    "text": "Sometimes I eat ice cream and chocolate,"
+  },
+  {
+    "id": "c66",
+    "startMs": 230840,
+    "endMs": 232140,
+    "text": "because they can make me happy."
+  },
+  {
+    "id": "c67",
+    "startMs": 233100,
+    "endMs": 233580,
+    "text": "I do exercise"
+  },
+  {
+    "id": "c68",
+    "startMs": 234020,
+    "endMs": 234560,
+    "text": "to be stronger,"
+  },
+  {
+    "id": "c69",
+    "startMs": 235460,
+    "endMs": 236420,
+    "text": "not just for fun."
+  },
+  {
+    "id": "c70",
+    "startMs": 237420,
+    "endMs": 240640,
+    "text": "I read books and write stories to improve my storytelling,"
+  },
+  {
+    "id": "c71",
+    "startMs": 241720,
+    "endMs": 244520,
+    "text": "even when it is difficult I never give up."
+  },
+  {
+    "id": "c72",
+    "startMs": 245360,
+    "endMs": 247320,
+    "text": "Would it be proud of me in grade 5?"
+  },
+  {
+    "id": "c73",
+    "startMs": 250300,
+    "endMs": 251980,
+    "text": "5. Listen and write."
+  },
+  {
+    "id": "c74",
+    "startMs": 253810,
+    "endMs": 256040,
+    "text": "세녕하세요, 가자요, 가자요,"
+  },
+  {
+    "id": "c75",
+    "startMs": 256580,
+    "endMs": 259580,
+    "text": "가자요, 가자요, 가자요, 가자요, 가자요, 가자요,"
+  },
+  {
+    "id": "c76",
+    "startMs": 260320,
+    "endMs": 261280,
+    "text": "가자요, 가자요,"
+  },
+  {
+    "id": "c77",
+    "startMs": 261880,
+    "endMs": 262280,
+    "text": "가자요, 가자요,"
+  },
+  {
+    "id": "c78",
+    "startMs": 264470,
+    "endMs": 265830,
+    "text": "가자요, 가자요, 가자요, 가자요, 가자요, 가자요, 가자요"
+  },
+  {
+    "id": "c79",
+    "startMs": 282700,
+    "endMs": 283020,
+    "text": "Second,"
+  },
+  {
+    "id": "c80",
+    "startMs": 283700,
+    "endMs": 285680,
+    "text": "she watched good speech videos online."
+  },
+  {
+    "id": "c81",
+    "startMs": 286640,
+    "endMs": 287360,
+    "text": "That sounds helpful."
+  },
+  {
+    "id": "c82",
+    "startMs": 287980,
+    "endMs": 290060,
+    "text": "And she always asks our teacher for tips."
+  },
+  {
+    "id": "c83",
+    "startMs": 290860,
+    "endMs": 291640,
+    "text": "If you do these,"
+  },
+  {
+    "id": "c84",
+    "startMs": 292160,
+    "endMs": 293140,
+    "text": "you'll become better."
+  },
+  {
+    "id": "c85",
+    "startMs": 293860,
+    "endMs": 293940,
+    "text": "Thanks."
+  },
+  {
+    "id": "c86",
+    "startMs": 294640,
+    "endMs": 295620,
+    "text": "I won't give up now."
+  },
+  {
+    "id": "c87",
+    "startMs": 296160,
+    "endMs": 296880,
+    "text": "I'll try my best."
+  },
+  {
+    "id": "c88",
+    "startMs": 299660,
+    "endMs": 300160,
+    "text": "Salpoo,"
+  },
+  {
+    "id": "c89",
+    "startMs": 300920,
+    "endMs": 301700,
+    "text": "you look worried."
+  },
+  {
+    "id": "c90",
+    "startMs": 302180,
+    "endMs": 302740,
+    "text": "What's the matter?"
+  },
+  {
+    "id": "c91",
+    "startMs": 303720,
+    "endMs": 306140,
+    "text": "I have to give an English speech next Monday."
+  },
+  {
+    "id": "c92",
+    "startMs": 307020,
+    "endMs": 308260,
+    "text": "I may just give up."
+  },
+  {
+    "id": "c93",
+    "startMs": 308780,
+    "endMs": 309560,
+    "text": "Don't be nervous."
+  },
+  {
+    "id": "c94",
+    "startMs": 310700,
+    "endMs": 312620,
+    "text": "Remember how Shen Shen tried her best?"
+  },
+  {
+    "id": "c95",
+    "startMs": 313520,
+    "endMs": 314480,
+    "text": "How did she do it?"
+  },
+  {
+    "id": "c96",
+    "startMs": 314960,
+    "endMs": 317440,
+    "text": "First, she practiced every single day."
+  },
+  {
+    "id": "c97",
+    "startMs": 318140,
+    "endMs": 318440,
+    "text": "Second,"
+  },
+  {
+    "id": "c98",
+    "startMs": 319020,
+    "endMs": 320980,
+    "text": "she watched good speech videos online."
+  },
+  {
+    "id": "c99",
+    "startMs": 321960,
+    "endMs": 322560,
+    "text": "That sounds helpful."
+  },
+  {
+    "id": "c100",
+    "startMs": 323280,
+    "endMs": 325400,
+    "text": "And she always asks our teacher for tips."
+  },
+  {
+    "id": "c101",
+    "startMs": 326200,
+    "endMs": 326980,
+    "text": "If you do these,"
+  },
+  {
+    "id": "c102",
+    "startMs": 327500,
+    "endMs": 328440,
+    "text": "you'll become better."
+  },
+  {
+    "id": "c103",
+    "startMs": 329180,
+    "endMs": 329320,
+    "text": "Thanks."
+  },
+  {
+    "id": "c104",
+    "startMs": 329940,
+    "endMs": 330940,
+    "text": "I won't give up now."
+  },
+  {
+    "id": "c105",
+    "startMs": 331500,
+    "endMs": 332180,
+    "text": "I'll try my best."
+  }
+]
